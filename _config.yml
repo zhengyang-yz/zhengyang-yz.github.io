@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Yang"
-description              : "Looking for collaboration partners in geotechnical engineering and geophysics. "
+description              : "Looking for collaboration partners in geotechnical engineering and geophysics."
 repository               : "zhengyang-yz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NhYiCs4AAAAJ"
   email            : "zhengyang.yz@outlook.com"
-  researchgate     :  "https://www.researchgate.net/profile/Zheng-Yang-114?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Zheng-Yang-114?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-0726-563X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
