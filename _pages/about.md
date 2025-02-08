@@ -19,7 +19,7 @@ redirect_from:
 
 Zheng Yang commenced his PhD studies at the School of Resources and Safety Engineering, Central South University, China, in September 2022. Currently, he is engaged in research as a joint training PhD student at the University of Melbourne, Australia. He is a student member of the Chinese Society for Rock Mechanics and Engineering (CSRME). His research interests include deep rock fragmentation, Thermal–hydraulic–mechanical–chemical (THMC) coupling in rock engineering, the development of discrete element method/finite-discrete element method (DEM/FDEM) numerical models, and engineering applications.
 
-He has published more than **40 papers** in renowned journals with total <a href='https://scholar.google.com/citations?user=NhYiCs4AAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NhYiCs4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+He has published more than **40 papers** in renowned journals such as Rock Mechanics and Rock Engineering and Engineering Geology, with 2 papers selected as ESI highly cited papers (top 1%).  His <a href='https://scholar.google.com/citations?user=NhYiCs4AAAAJ'>google scholar citations have reached <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NhYiCs4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). He has applied for 29 Chinese invention patents and has been invited to serve as a reviewer for internationally renowned journals such as Sustainable Energy Technologies and Assessments, Theoretical and Applied Fracture Mechanics, and International Journal of Damage Mechanics.
 
 
 # 🔥 News
@@ -55,15 +55,15 @@ He has published more than **40 papers** in renowned journals with total <a href
 - *2021.03*: Fundamental Research Funds for the Central Universities of China
 
 
+# ◆ Employments
+- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia
+
+
 # 📖 Educations
 - *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
 - *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
 - *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
-
-
-# ◆ Employments
-- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia
 
 
 # ☑ Patents
