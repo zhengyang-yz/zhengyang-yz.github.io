@@ -20,7 +20,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
+  author           : "Zheng Yang"
   name             : "Zheng Yang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The University of Melbourne"
