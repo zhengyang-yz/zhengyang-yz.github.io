@@ -19,14 +19,16 @@ redirect_from:
 
 Zheng Yang commenced his PhD studies at the School of Resources and Safety Engineering, Central South University, China, in September 2022. Currently, he is engaged in research as a joint training PhD student at the University of Melbourne, Australia. He is a student member of the Chinese Society for Rock Mechanics and Engineering (CSRME). His research interests include deep rock fragmentation, Thermal–hydraulic–mechanical–chemical (THMC) coupling in rock engineering, the development of discrete element method/finite-discrete element method (DEM/FDEM) numerical models, and engineering applications.
 
-He has published more than **40 papers** in renowned journals such as Rock Mechanics and Rock Engineering and Engineering Geology, with 2 papers selected as ESI highly cited papers (top 1%).  His <a href='https://scholar.google.com/citations?user=NhYiCs4AAAAJ'>google scholar citations have reached <strong><span id='total_cit'>400+</span></strong></a>. He has applied for 29 Chinese invention patents and has been invited to serve as a reviewer for internationally renowned journals such as Sustainable Energy Technologies and Assessments, Theoretical and Applied Fracture Mechanics, and International Journal of Damage Mechanics.
+He has published more than **40 papers** in renowned journals such as Rock Mechanics and Rock Engineering and Engineering Geology, with 2 papers selected as ESI highly cited papers (top 1%). His Google Scholar citations have reached 400+, with an H-index of 12. He has applied for 29 Chinese invention patents and has been invited to serve as a reviewer for internationally renowned journals such as Sustainable Energy Technologies and Assessments, Theoretical and Applied Fracture Mechanics, and International Journal of Damage Mechanics.
+
 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 President Scholarship – Excellence Award, Central South University (**Top 30 in university**)
 
 
-# 📝 Publications 
+
+# 📝 Representative Publications
 
 - **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization. Rock Mechanics and Rock Engineering, 57, 10467-10489.
 - **Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock. Engineering Geology, 339, 107645.
@@ -41,7 +43,7 @@ He has published more than **40 papers** in renowned journals such as Rock Mecha
 - Cui, K., __Yang, Z.__* (2023). Early estimation method of rockburst and large deformation of surrounding rock based on the deep borehole test. Heliyon, 9(6).
 - **Yang, Z.**, Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022). Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation. Theoretical and Applied Fracture Mechanics, 122, 103571.
 - Yin, T., __Yang, Z.__*, Wu, Y., Tan, X., Li, M. (2022). Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite. International Journal of Damage Mechanics, 31(8), 1139-1164.
-- Yin, T., **Yang, Z.**, Yin, J. (2021). Effect of open fire on dynamic compression mechanical behavior of granite under different strain rates. Arabian Journal of Geosciences, 14(20), 2144.
+
 
 
 # 🎖 Honors and Awards
@@ -55,15 +57,18 @@ He has published more than **40 papers** in renowned journals such as Rock Mecha
 - *2021.03*: Fundamental Research Funds for the Central Universities of China
 
 
+
 # ◆ Employments
-- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia
+- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: Prof. P.G. Ranjith)
+
 
 
 # 📖 Educations
-- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
-- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
-- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
+- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia (Supervisor: Prof. Guillermo A. Narsilio)
+- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China (Supervisor: Prof. Ming Tao)
+- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China (Supervisor: Prof. Tubing Yin)
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
+
 
 
 # ☑ Patents
