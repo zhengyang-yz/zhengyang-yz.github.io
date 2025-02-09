@@ -29,7 +29,7 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 
 # 📝 Representative Publications
 
-- **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization. Rock Mechanics and Rock Engineering, 57, 10467-10489.
+- **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). [Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization](https://link.springer.com/article/10.1007/s00603-024-04099-8). Rock Mechanics and Rock Engineering, 57, 10467-10489.
 - **Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock. Engineering Geology, 339, 107645.
 - **Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation. Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
 - **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters. Engineering Fracture Mechanics, 315, 110845.
