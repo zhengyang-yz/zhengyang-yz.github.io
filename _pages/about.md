@@ -17,37 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zheng Yang commenced his PhD studies at the School of Resources and Safety Engineering, Central South University, China, in September 2022. Currently, he is engaged in research as a joint training PhD student at the University of Melbourne, Australia. He is a student member of the Chinese Society for Rock Mechanics and Engineering (CSRME). He has published **more than 40 papers** in renowned journals such as *Rock Mechanics and Rock Engineering*, *Engineering Geology*, with 2 papers selected as **ESI highly cited paper (top 1%)**. His Google Scholar citations have reached 400+, with an H-index of 12. He has applied for **29 Chinese invention patents** and has been invited to serve as a reviewer for internationally renowned journals such as Sustainable Energy Technologies and Assessments, Theoretical and Applied Fracture Mechanics, and International Journal of Damage Mechanics.
+Zheng Yang commenced his PhD studies at Central South University (中南大学), in September 2022. Currently, he is engaged in research as a joint training PhD student at The University of Melbourne (墨尔本大学). He serves as a visiting researcher at Monash University (莫纳什大学) and a student member of the Chinese Society for Rock Mechanics and Engineering (中国岩石力学与工程学会). He has published **more than 40 papers** in top international journals such as *Rock Mechanics and Rock Engineering*, *Engineering Geology*, with 2 papers selected as **ESI highly cited paper (top 1%)**. His Google Scholar citations have reached 400+, with an H-index of 12. He has applied for **29 Chinese invention patents** and has been invited to serve as a reviewer for internationally renowned journals such as *Sustainable Energy Technologies and Assessments*, *Theoretical and Applied Fracture Mechanics*, and *International Journal of Damage Mechanics*.
 
 He proposed a novel evaluation index for rock-breaking efficiency, overcoming the bottleneck of traditional indices in accurately identifying fragments. Based on numerical image processing, Newton's second law, and Fourier's law of heat conduction, he developed a multi-scale, multi-field coupling model that reproduce the rock structure, aiming to provide more effective solutions for clean energy development. His research interests include deep rock fragmentation, induced seismicity, Thermal–hydraulic–mechanical–chemical (THMC) coupling in rock engineering, the development of discrete element method/finite-discrete element method (DEM/FDEM) numerical models, and engineering applications.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 President Scholarship – Excellence Award, Central South University (**Top 30 in university**)
+- *2024.12*: &nbsp;🎉🎉 President Scholarship – Excellence Award, Central South University (**Top 30 among 24,000+ graduate students**)
 
 
 
 # 📝 Representative Publications
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). [Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization](https://link.springer.com/article/10.1007/s00603-024-04099-8). Rock Mechanics and Rock Engineering, 57, 10467-10489.
-- **Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock. Engineering Geology, 339, 107645.
-- **Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation. Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
-- **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters. Engineering Fracture Mechanics, 315, 110845.
-- **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks. Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
-- **Yang, Z.**, Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock. Underground Space, 20, 174-196.
-- **Yang, Z.**, Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments. Engineering Fracture Mechanics, 310, 110479.
-- Tao, M., __Yang, Z.__*, Zhao, Y., Wu, X., & Wu, C. (2024). Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting. Energy, 292, 130489. **ESI highly cited paper (top 1%)**
-- Memon, M. B., __Yang, Z.__*, Qazi, W. H., Pathan, S. M., Chalgri, S. R. (2024). Assessing Soil Bulk Density, Plasticity Index, Porosity, and Degree of Saturation through Electrical Resistivity using Correlation Analysis. Malaysian Journal of Soil Science, 28, 12-25.
-- **Yang, Z.**, Yin, T., Wu, Y., Zhuang, D., Yin, J., Ma, J. (2023). Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study. Fatigue & Fracture of Engineering Materials & Structures, 46(3), 814-834.
-- Cui, K., __Yang, Z.__* (2023). Early estimation method of rockburst and large deformation of surrounding rock based on the deep borehole test. Heliyon, 9(6).
-- **Yang, Z.**, Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022). Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation. Theoretical and Applied Fracture Mechanics, 122, 103571.
-- Yin, T., __Yang, Z.__*, Wu, Y., Tan, X., Li, M. (2022). Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite. International Journal of Damage Mechanics, 31(8), 1139-1164.
+- **Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). [A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock](https://www.sciencedirect.com/science/article/pii/S001379522400245X?via%3Dihub). Engineering Geology, 339, 107645.
+- **Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). [Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation](https://www.sciencedirect.com/science/article/pii/S1674775524003081?via%3Dihub). Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
+- **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
+- **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). [Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks](https://www.sciencedirect.com/science/article/pii/S2352152X24002159?via%3Dihub). Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
+- **Yang, Z.**, Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). [Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock](https://www.sciencedirect.com/science/article/pii/S2467967424000874?via%3Dihub). Underground Space, 20, 174-196.
+- **Yang, Z.**, Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). [Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments](https://www.sciencedirect.com/science/article/pii/S0013794424006428?via%3Dihub). Engineering Fracture Mechanics, 310, 110479.
+- Tao, M., __Yang, Z.__*, Zhao, Y., Wu, X., & Wu, C. (2024). [Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting](https://www.sciencedirect.com/science/article/pii/S0360544224002603?via%3Dihub). Energy, 292, 130489. **ESI highly cited paper (top 1%)**
+- Memon, M. B., __Yang, Z.__*, Qazi, W. H., Pathan, S. M., Chalgri, S. R. (2024). [Assessing Soil Bulk Density, Plasticity Index, Porosity, and Degree of Saturation through Electrical Resistivity using Correlation Analysis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://msss.com.my/mjss/Full%20Text/vol28/V28_02.pdf). Malaysian Journal of Soil Science, 28, 12-25.
+- **Yang, Z.**, Yin, T., Wu, Y., Zhuang, D., Yin, J., Ma, J. (2023). [Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study](https://onlinelibrary.wiley.com/doi/10.1111/ffe.13897). Fatigue & Fracture of Engineering Materials & Structures, 46(3), 814-834.
+- Cui, K., __Yang, Z.__* (2023). [Early estimation method of rockburst and large deformation of surrounding rock based on the deep borehole test](https://www.cell.com/heliyon/fulltext/S2405-8440(23)03845-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023038458%3Fshowall%3Dtrue). Heliyon, 9(6).
+- **Yang, Z.**, Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022). [Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation](https://www.sciencedirect.com/science/article/pii/S0167844222003159?via%3Dihub). Theoretical and Applied Fracture Mechanics, 122, 103571.
+- Yin, T., __Yang, Z.__*, Wu, Y., Tan, X., Li, M. (2022). [Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite](https://journals.sagepub.com/doi/10.1177/10567895221092168). International Journal of Damage Mechanics, 31(8), 1139-1164.
 
 
 
 # 🎖 Honors and Awards
-- *2024.12*: President Scholarship – Excellence Award, Central South University (Top 30 in university)
-- *2024.10*: National Scholarship, Ministry of Education of China
+- *2024.12*: President Scholarship – Excellence Award, Central South University (Top 30 among 24,000+ graduate students)
+- *2024.10*: National Scholarship, Ministry of Education of China (Top 2%)
 - *2024.10*: First Prize, Academic Scholarship, Central South University
 - *2023.07*: China Scholarship Council Scholarship
 - *2023.10*: First Prize, Academic Scholarship, Central South University
@@ -58,14 +59,14 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 
 
 # ◆ Employments
-- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: Prof. P.G. Ranjith)
+- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/))
 
 
 
 # 📖 Educations
-- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia (Supervisor: Prof. Guillermo A. Narsilio)
-- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China (Supervisor: Prof. Ming Tao)
-- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China (Supervisor: Prof. Tubing Yin)
+- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia (Supervisor: [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), [Prof. Wenbin Fei (费文斌)](https://grzy.hnu.edu.cn/site/index/feiwenbin))
+- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China (Supervisor: [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm))
+- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China (Supervisor: [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm))
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
 
 
