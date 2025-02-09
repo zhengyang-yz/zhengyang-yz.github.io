@@ -94,7 +94,7 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 
 
 # ◆ Employments
-- *2024.09 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/))
+- *2024.08 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/))
 
 
 
