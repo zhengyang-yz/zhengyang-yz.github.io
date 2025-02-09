@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zheng Yang commenced his PhD studies at Central South University (中南大学), in September 2022. Currently, he is engaged in research as a joint training PhD student at The University of Melbourne (墨尔本大学). He serves as a visiting researcher at Monash University (莫纳什大学) and a student member of the Chinese Society for Rock Mechanics and Engineering. He has published **more than 40 papers** in top international journals such as *Rock Mechanics and Rock Engineering*, *Engineering Geology*, with 2 papers selected as **ESI highly cited paper (top 1%)**. His Google Scholar citations have reached 400+, with an H-index of 12. He has applied for **29 Chinese invention patents** and has been invited to serve as a reviewer for internationally renowned journals such as *Sustainable Energy Technologies and Assessments*, *Theoretical and Applied Fracture Mechanics*, and *International Journal of Damage Mechanics*.
+Zheng Yang commenced his PhD studies at Central South University (中南大学), in September 2022. Currently, he is engaged in research as a joint training PhD student at The University of Melbourne (墨尔本大学). He serves as a visiting researcher at Monash University (莫纳什大学) and a student member of the Chinese Society for Rock Mechanics and Engineering. He has published **more than 40 papers** in top international journals such as *Rock Mechanics and Rock Engineering*, *Engineering Geology*, with 2 papers selected as **ESI highly cited papers (top 1%)**. His Google Scholar citations have reached 400+, with an H-index of 12. He has applied for **29 Chinese invention patents** and has been invited to serve as a reviewer for internationally renowned journals such as *Sustainable Energy Technologies and Assessments*, *Theoretical and Applied Fracture Mechanics*, and *International Journal of Damage Mechanics*.
 
 He proposed a novel evaluation index for rock-breaking efficiency, overcoming the bottleneck of traditional indices in accurately identifying fragments. Based on numerical image processing, Newton's second law, and Fourier's law of heat conduction, he developed a multi-scale, multi-field coupling model that reproduce the rock structure, aiming to provide more effective solutions for clean energy development. His research interests include deep rock fragmentation, induced seismicity, Thermal–hydraulic–mechanical–chemical (THMC) coupling in rock engineering, the development of discrete element method/finite-discrete element method (DEM/FDEM) numerical models, and engineering applications.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 President Scholarship – Excellence Award, Central South University (**Top 30 among 24,000+ graduate students**)
+- *2025.01*: &nbsp;🎉 Two papers have been selected as ESI Highly Cited Papers.
+- *2024.12*: &nbsp;🎉 President Scholarship – Excellence Award, Central South University (**Top 30 among 24,000+ graduate students**)
 
 
 
