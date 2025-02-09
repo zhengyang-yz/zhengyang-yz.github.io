@@ -49,8 +49,27 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 </div>
 </div>
 
-- **Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). [Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation](https://www.sciencedirect.com/science/article/pii/S1674775524003081?via%3Dihub). Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
-- **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRMGE 2025</div><img src='images/JRMGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). [Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation](https://www.sciencedirect.com/science/article/pii/S1674775524003081?via%3Dihub). Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
+- A novel microwave-water cooling-assisted mechanical rock breakage method was proposed to address the issues of severe tool wear at elevated temperatures, poor rock microwave absorption, and excessive microwave energy consumption.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EFM 2025</div><img src='images/EFM 2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
+- A model for stressed hard rock breakage containing weak interlayers is proposed.
+- The increase in initial stress inhibits the expansion of the median crack.
+- The presence of the weak interlayer leads to an asymmetry in the stress field.
+
+</div>
+</div>
+
+
 - **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). [Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks](https://www.sciencedirect.com/science/article/pii/S2352152X24002159?via%3Dihub). Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
 - **Yang, Z.**, Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). [Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock](https://www.sciencedirect.com/science/article/pii/S2467967424000874?via%3Dihub). Underground Space, 20, 174-196.
 - **Yang, Z.**, Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). [Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments](https://www.sciencedirect.com/science/article/pii/S0013794424006428?via%3Dihub). Engineering Fracture Mechanics, 310, 110479.
