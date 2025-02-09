@@ -30,10 +30,25 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 # 📝 Representative Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RMRE 2024</div><img src='images/RMRE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). [Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization](https://link.springer.com/article/10.1007/s00603-024-04099-8). Rock Mechanics and Rock Engineering, 57, 10467-10489.
+  
+**Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). [Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization](https://link.springer.com/article/10.1007/s00603-024-04099-8). Rock Mechanics and Rock Engineering, 57, 10467-10489.
+- An innovative concept for the extraction and computation of fragments is proposed.
+- An improved specific energy for assessing rock-breaking efficiency is presented.
+- A heterogeneous rock-breaking model reflecting actual immersion velocity is established.
+
 </div>
 </div>
-- **Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). [A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock](https://www.sciencedirect.com/science/article/pii/S001379522400245X?via%3Dihub). Engineering Geology, 339, 107645.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EG 2024</div><img src='images/EG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Yang, Z.**, Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). [A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock](https://www.sciencedirect.com/science/article/pii/S001379522400245X?via%3Dihub). Engineering Geology, 339, 107645.
+- A novel thermal-mechanical coupled composite interbedded rock model was developed.
+- Thermal stresses inside composite interbedded rock were studied for the first time.
+
+</div>
+</div>
+
 - **Yang, Z.**, Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). [Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation](https://www.sciencedirect.com/science/article/pii/S1674775524003081?via%3Dihub). Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.
 - **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
 - **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). [Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks](https://www.sciencedirect.com/science/article/pii/S2352152X24002159?via%3Dihub). Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
