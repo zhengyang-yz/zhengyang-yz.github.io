@@ -28,7 +28,7 @@ He proposed a novel evaluation index for rock-breaking efficiency, overcoming th
 
 
 # 📝 Representative Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RMRE 2024</div><img src='images/RMRE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Yang, Z.**, Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). [Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization](https://link.springer.com/article/10.1007/s00603-024-04099-8). Rock Mechanics and Rock Engineering, 57, 10467-10489.
 </div>
