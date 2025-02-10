@@ -95,7 +95,7 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 
 
 # ◆ Employments
-- *2024.08 - Present*, Visiting Researcher, Civil Engineering, Monash University, Australia (Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/))
+- *2024.08 - Present*, Guest researcher, Deep Earth Energy Research Laboratory, Monash University, Australia (Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/))
 
 
 
