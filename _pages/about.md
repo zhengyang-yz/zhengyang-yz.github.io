@@ -107,7 +107,7 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 
 
 
-# ☑ Patents
+# ☑ Representative Patents
 - *2023*, A test device and method for simulating rock breaking by tunnel boring machine cutter under deep conditions, CN202310213745.5. (China)
 - *2024*, Experimental setup and methods for the mechanical characteristics of high-stress tunnel surrounding rock in cold regions, CN202311586560.5. (China)
 - *2024*, An advance drilling device for tunnel boring machine and a drill bit for tunnel boring machine, CN202311820825.3. (China)
