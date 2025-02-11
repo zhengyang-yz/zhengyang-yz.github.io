@@ -95,14 +95,18 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 
 
 # ★ Employments
-- *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia (Collaborative Supervisor: [Prof. P.G. Ranjith](https://3gdeep.com/), Foreign Fellow of the Chinese Academy of Engineering, Fellow of Australian Academy of Technology and Engineering)
+- *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia
+  **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/), Foreign Fellow of the Chinese Academy of Engineering, Fellow of Australian Academy of Technology and Engineering
 
 
 
 # 📖 Educations
-- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia (Supervisor: [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero)(Australian Research Council (ARC) Future Fellow), [Prof. Wenbin Fei (费文斌)](https://grzy.hnu.edu.cn/site/index/feiwenbin))
-- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China (Supervisor: [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm))
-- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China (Supervisor: [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm))
+- *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
+  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), Australian Research Council (ARC) Future Fellow; [Prof. Wenbin Fei (费文斌)](https://grzy.hnu.edu.cn/site/index/feiwenbin)
+- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
+  **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm)
+- *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
+  **Supervisor:** [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm))
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
 
 
