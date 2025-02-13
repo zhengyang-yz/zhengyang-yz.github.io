@@ -85,10 +85,10 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 # 🎖 Honors and Awards
 - *2024.12*: President Scholarship – Excellence Award, Central South University (Top 30 among 24,000+ graduate students)
 - *2024.10*: National Scholarship, Ministry of Education of China (Top 2%)
-- *2024.10*: First Prize, Academic Scholarship, Central South University
+- *2024.10*: First Prize, Graduate Study Scholarship, Central South University
 - *2023.07*: China Scholarship Council Scholarship
-- *2023.10*: First Prize, Academic Scholarship, Central South University
-- *2022.10*: First Prize, Academic Scholarship, Central South University
+- *2023.10*: First Prize, Graduate Study Scholarship, Central South University
+- *2022.10*: First Prize, Graduate Study Scholarship, Central South University
 - *2021.10*: College Scholarship, Central South University
 - *2021.03*: Fundamental Research Funds for the Central Universities of China
 - *2020.03*: Asia and Pacific Mathematical Contest in Modeling (APMCM) Prize
