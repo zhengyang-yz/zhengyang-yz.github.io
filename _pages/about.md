@@ -104,7 +104,7 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 # 📖 Educations
 - *2024.03 - Present*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
   
-  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *Australian Research Council (ARC) Future Fellow (澳大利亚杰青)*; [Prof. Wenbin Fei (费文斌)](https://grzy.hnu.edu.cn/site/index/feiwenbin)
+  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *Australian Research Council (ARC) Future Fellow (澳大利亚杰青)*
 - *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
   
   **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm)
