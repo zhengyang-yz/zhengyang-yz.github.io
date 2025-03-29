@@ -80,6 +80,7 @@ Zheng Yang proposed a novel evaluation index for rock-breaking efficiency, overc
 - Cui, K., __Yang, Z.__* (2023). [Early estimation method of rockburst and large deformation of surrounding rock based on the deep borehole test](https://www.cell.com/heliyon/fulltext/S2405-8440(23)03845-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023038458%3Fshowall%3Dtrue). Heliyon, 9(6).
 - **Yang, Z.**, Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022). [Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation](https://www.sciencedirect.com/science/article/pii/S0167844222003159?via%3Dihub). Theoretical and Applied Fracture Mechanics, 122, 103571.
 - Yin, T., __Yang, Z.__*, Wu, Y., Tan, X., Li, M. (2022). [Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite](https://journals.sagepub.com/doi/10.1177/10567895221092168). International Journal of Damage Mechanics, 31(8), 1139-1164.
+- Cui, K., __Yang, Z.__*, Li, J. (2025). [Numerical Modeling and Theoretical Analysis of Deformation Characteristics of Non-Equal-Width Retained Walls](https://www.mdpi.com/2076-3417/15/6/3080). Applied Sciences, 16(5), 3080.
 
 
 
