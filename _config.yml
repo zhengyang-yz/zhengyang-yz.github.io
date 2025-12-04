@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zheng Yang"
+title                    : "Dr. Zheng Yang"
 description              : "Looking for collaboration partners in geotechnical engineering and geophysics."
 repository               : "zhengyang-yz.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheng Yang (杨政)"
+  name             : "Dr. Zheng Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The University of Melbourne"
-  location         : "Melbourne, Australia"
+  bio              : "Humboldt Research Fellow, TU Bergakademie Freiberg"
+  location         : "Freiberg, Saxony, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NhYiCs4AAAAJ"
