@@ -114,7 +114,7 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 - *2024.03 - 2025.03*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
   
   **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *ARC Future Fellow (澳大利亚杰青)*
-- *2022.09 - Present*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
+- *2022.09 - 2025.12*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
   
   **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm), *Chang Jiang Scholars Program - Young Scholar (教育部青年长江学者)*
 - *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
