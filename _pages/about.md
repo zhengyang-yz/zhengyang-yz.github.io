@@ -90,10 +90,10 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 
 # 🎖 Honors and Awards
 - *2025.11*: Humboldt Research Fellowship, Alexander von Humboldt Foundation
-- *2025.10*: National Scholarship (国家奖学金), Ministry of Education of China (Top 2%)
+- *2025.10*: National Scholarship, Ministry of Education of China (Top 2%)
 - *2025.10*: First Prize, Graduate Study Scholarship, Central South University
-- *2024.12*: President Scholarship – Excellence Award (校长拔尖奖), Central South University (Top 30 among 24,000+ graduate students)
-- *2024.10*: National Scholarship (国家奖学金), Ministry of Education of China (Top 2%)
+- *2024.12*: President Scholarship – Excellence Award, Central South University (Top 30 among 24,000+ graduate students)
+- *2024.10*: National Scholarship, Ministry of Education of China (Top 2%)
 - *2024.10*: First Prize, Graduate Study Scholarship, Central South University
 - *2023.07*: China Scholarship Council Scholarship
 - *2023.10*: First Prize, Graduate Study Scholarship, Central South University
@@ -106,21 +106,20 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 # ★ Employments
 - *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia
   
-  **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/), *Foreign Academician of Chinese Academy of Engineering (中国工程院外籍院士), Fellow of Australian Academy of Technology and Engineering (澳大利亚工程院院士)*
+  **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/), *Foreign Academician of Chinese Academy of Engineering, Fellow of Australian Academy of Technology and Engineering*
 
 
 
 # 📖 Educations
 - *2024.03 - 2025.03*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
   
-  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *ARC Future Fellow (澳大利亚杰青)*
-- *2022.09 - 2025.12*, PhD Student, Safety Science and Engineering, Central South University, Hunan, China
+  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *ARC Future Fellow*
+- *2022.09 - 2025.12*, PhD, Safety Science and Engineering, Central South University, Hunan, China
   
-  **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm), *Chang Jiang Scholars Program - Young Scholar (教育部青年长江学者)*
+  **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm), *Chang Jiang Scholars Program - Young Scholar*
 - *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
   
-  **Supervisor:** [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm), *Vice Dean of the School of Resources and Safety Engineering, Central South University
- (中南大学资源与安全工程学院副院长)*
+  **Supervisor:** [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm), *Vice Dean of the School of Resources and Safety Engineering, Central South University*
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
 
 
