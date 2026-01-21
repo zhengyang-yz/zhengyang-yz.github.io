@@ -88,7 +88,8 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Functions and Honours
+- *2026 - Present*: Associate Editor, Frontiers in Earth Science (JCR Q3)
 - *2025.11*: Humboldt Research Fellowship, Alexander von Humboldt Foundation
 - *2025.10*: National Scholarship, Ministry of Education of China (Top 2%)
 - *2025.10*: First Prize, Graduate Study Scholarship, Central South University
