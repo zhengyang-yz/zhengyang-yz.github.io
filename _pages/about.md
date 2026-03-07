@@ -74,8 +74,10 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 </div>
 
 - **Yang, Z.**, Tao, M., Ranjith, P. G. (2025). [Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model](https://www.sciencedirect.com/science/article/abs/pii/S1365160925000759). International Journal of Rock Mechanics and Mining Sciences, 189, 106098.
+- **Yang, Z.**, Narsilio, G. A., Tao, M., Fei, W., Luo, H., Memon, M. B. (2025). [Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing](https://doi.org/10.1007/s00603-025-04995-7?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle). Rock Mechanics and Rock Engineering.
 - **Yang, Z.**, Alqawasmeh, Q., Ma, J., Dashtgoli, D., Cong, Z., Li, Y. (2025). [Critical grain size and shear behavior of polycrystalline rocks under confining pressure: A moment tensor-based GBM approach](https://www.sciencedirect.com/science/article/abs/pii/S0266352X25003805?via%3Dihub). Computers and Geotechnics, 186, 107431.
 - **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). [Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks](https://www.sciencedirect.com/science/article/pii/S2352152X24002159?via%3Dihub). Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
+- **Yang, Z.**, Tao, M., Alqawasmeh, Q., Luo, H., Ranjith, P. G. (2026). [Particle size and grain fabric effect on mechanical behavior of crystalline rocks using grain-based DEM](https://link.springer.com/article/10.1007/s10064-026-04799-1?utm_source=researchgate.net&utm_medium=article). Bulletin of Engineering Geology and the Environment, 85, 149.
 - **Yang, Z.**, Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). [Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock](https://www.sciencedirect.com/science/article/pii/S2467967424000874?via%3Dihub). Underground Space, 20, 174-196. **ESI highly cited paper (top 1%)**
 - **Yang, Z.**, Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). [Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments](https://www.sciencedirect.com/science/article/pii/S0013794424006428?via%3Dihub). Engineering Fracture Mechanics, 310, 110479.
 - Tao, M., __Yang, Z.__*, Zhao, Y., Wu, X., & Wu, C. (2024). [Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting](https://www.sciencedirect.com/science/article/pii/S0360544224002603?via%3Dihub). Energy, 292, 130489. **ESI highly cited paper (top 1%)**
@@ -117,10 +119,10 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
   **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *ARC Future Fellow*
 - *2022.09 - 2025.12*, PhD, Safety Science and Engineering, Central South University, Hunan, China
   
-  **Supervisor:** [Prof. Ming Tao (陶明)](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm), *Chang Jiang Scholars Program - Young Scholar*
+  **Supervisor:** [Prof. Ming Tao](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm)
 - *2019.09 - 2022.06*, Master of Engineering, Mining Engineering, Central South University, Hunan, China
   
-  **Supervisor:** [Prof. Tubing Yin (尹土兵)](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm), *Vice Dean of the School of Resources and Safety Engineering, Central South University*
+  **Supervisor:** [Prof. Tubing Yin](https://faculty.csu.edu.cn/yintubing/zh_CN/index.htm)
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mining Engineering, Wuhan University of Science and Technology, Hubei, China
 
 
