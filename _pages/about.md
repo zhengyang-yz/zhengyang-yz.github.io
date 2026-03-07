@@ -98,16 +98,18 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 
 
 # ★ Employments
+- *2026.03 - Present*, Humboldt Research Fellow, TU Bergakademie Freiberg, Germany
+  
+  **Collaborative Supervisor:** [Prof.Heinz Konietzky](https://geotechnics.webador.de/)
 - *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia
   
-  **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/), *Foreign Academician of Chinese Academy of Engineering, Fellow of Australian Academy of Technology and Engineering*
-
+  **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/)
 
 
 # 📖 Educations
 - *2024.03 - 2025.03*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
   
-  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero), *ARC Future Fellow*
+  **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero)
 - *2022.09 - 2025.12*, PhD, Safety Science and Engineering, Central South University, Hunan, China
   
   **Supervisor:** [Prof. Ming Tao](http://faculty.csu.edu.cn/Tao_Ming/zh_CN/index.htm)
