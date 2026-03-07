@@ -62,16 +62,6 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EFM 2025</div><img src='images/EFM 2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
-- A model for stressed hard rock breakage containing weak interlayers is proposed.
-- The increase in initial stress inhibits the expansion of the median crack.
-- The presence of the weak interlayer leads to an asymmetry in the stress field.
-
-</div>
-</div>
 
 - **Yang, Z.**, Tao, M., Ranjith, P. G. (2025). [Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model](https://www.sciencedirect.com/science/article/abs/pii/S1365160925000759). International Journal of Rock Mechanics and Mining Sciences, 189, 106098.
 - **Yang, Z.**, Narsilio, G. A., Tao, M., Fei, W., Luo, H., Memon, M. B. (2025). [Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing](https://doi.org/10.1007/s00603-025-04995-7?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle). Rock Mechanics and Rock Engineering.
@@ -80,6 +70,7 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 - **Yang, Z.**, Tao, M., Alqawasmeh, Q., Luo, H., Ranjith, P. G. (2026). [Particle size and grain fabric effect on mechanical behavior of crystalline rocks using grain-based DEM](https://link.springer.com/article/10.1007/s10064-026-04799-1?utm_source=researchgate.net&utm_medium=article). Bulletin of Engineering Geology and the Environment, 85, 149.
 - **Yang, Z.**, Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). [Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock](https://www.sciencedirect.com/science/article/pii/S2467967424000874?via%3Dihub). Underground Space, 20, 174-196. **ESI highly cited paper (top 1%)**
 - **Yang, Z.**, Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). [Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments](https://www.sciencedirect.com/science/article/pii/S0013794424006428?via%3Dihub). Engineering Fracture Mechanics, 310, 110479.
+- **Yang, Z.**, Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). [Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters](https://www.sciencedirect.com/science/article/pii/S0013794425000463?via%3Dihub). Engineering Fracture Mechanics, 315, 110845.
 - Tao, M., __Yang, Z.__*, Zhao, Y., Wu, X., & Wu, C. (2024). [Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting](https://www.sciencedirect.com/science/article/pii/S0360544224002603?via%3Dihub). Energy, 292, 130489. **ESI highly cited paper (top 1%)**
 - Memon, M. B., __Yang, Z.__*, Qazi, W. H., Pathan, S. M., Chalgri, S. R. (2024). [Assessing Soil Bulk Density, Plasticity Index, Porosity, and Degree of Saturation through Electrical Resistivity using Correlation Analysis](https://msss.com.my/mjss/Full%20Text/vol28/V28_02.pdf). Malaysian Journal of Soil Science, 28, 12-25.
 - **Yang, Z.**, Yin, T., Wu, Y., Zhuang, D., Yin, J., Ma, J. (2023). [Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study](https://onlinelibrary.wiley.com/doi/10.1111/ffe.13897). Fatigue and Fracture of Engineering Materials and Structures, 46(3), 814-834.
