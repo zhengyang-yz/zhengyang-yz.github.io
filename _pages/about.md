@@ -98,7 +98,7 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 
 
 # ★ Employments
-- *2026.03 - Present*, Humboldt Research Fellow, TU Bergakademie Freiberg, Germany
+- *2026.03 - Present*, Humboldt Research Fellow, Geotechnical Institute, TU Bergakademie Freiberg, Germany
   
   **Collaborative Supervisor:** [Prof. Heinz Konietzky](https://geotechnics.webador.de/)
 - *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia
