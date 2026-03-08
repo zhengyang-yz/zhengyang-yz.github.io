@@ -63,7 +63,7 @@ Dr. Yang proposed a novel evaluation index for rock-breaking efficiency, overcom
 </div>
 
 
-- **Yang, Z.**, Tao, M., Ranjith, P. G. (2025). [Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model](https://www.sciencedirect.com/science/article/abs/pii/S1365160925000759). International Journal of Rock Mechanics and Mining Sciences, 189, 106098.
+- **Yang, Z.**, Tao, M., Ranjith, P. G. (2025). [Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model](https://www.sciencedirect.com/science/article/abs/pii/S1365160925000759). International Journal of Rock Mechanics and Mining Sciences, 189, 106098. **ESI highly cited paper (top 1%)**
 - **Yang, Z.**, Narsilio, G. A., Tao, M., Fei, W., Luo, H., Memon, M. B. (2025). [Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing](https://doi.org/10.1007/s00603-025-04995-7?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle). Rock Mechanics and Rock Engineering.
 - **Yang, Z.**, Alqawasmeh, Q., Ma, J., Dashtgoli, D., Cong, Z., Li, Y. (2025). [Critical grain size and shear behavior of polycrystalline rocks under confining pressure: A moment tensor-based GBM approach](https://www.sciencedirect.com/science/article/abs/pii/S0266352X25003805?via%3Dihub). Computers and Geotechnics, 186, 107431.
 - **Yang, Z.**, Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). [Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks](https://www.sciencedirect.com/science/article/pii/S2352152X24002159?via%3Dihub). Journal of Energy Storage, 83, 110631. **ESI highly cited paper (top 1%)**
