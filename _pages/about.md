@@ -105,7 +105,7 @@ Dr. Yang is a Humboldt Research Fellow at TU Bergakademie Freiberg. He completed
 
 
 # 📖 Educations
-- *2024.03 - 2025.03*, Joint Training PhD Student, Geotechnical Engineering, The University of Melbourne, Australia
+- *2024.03 - 2025.03*, Joint Training PhD, Geotechnical Engineering, The University of Melbourne, Australia
   
   **Supervisor:** [Prof. Guillermo A. Narsilio](https://findanexpert.unimelb.edu.au/profile/143722-guillermo-narsilio-ferrero)
 - *2022.09 - 2025.12*, PhD, Safety Science and Engineering, Central South University, Hunan, China
