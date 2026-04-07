@@ -95,7 +95,7 @@ Dr. Yang is a Humboldt Research Fellow at TU Bergakademie Freiberg, Germany (Col
 - *2020.03*: Asia and Pacific Mathematical Contest in Modeling (APMCM) Prize
 
 
-# ★ Employments
+# ★ Academic and Research Appointments
 - *2026.03 - Present*, Humboldt Research Fellow, Geotechnical Institute, TU Bergakademie Freiberg, Germany
   
   **Collaborative Supervisor:** [Prof. Heinz Konietzky](https://geotechnics.webador.de/)
