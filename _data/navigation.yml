@@ -14,9 +14,6 @@ main:
     
   - title: "Employments"
     url: "/#-employments"
-  
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Representative Patents"
     url: "/#-representative-patents"
