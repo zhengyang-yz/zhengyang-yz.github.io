@@ -98,7 +98,7 @@ Dr. Yang is currently a Humboldt Research Fellow at TU Bergakademie Freiberg, Ge
 # ★ Academic and Research Appointments
 - *2026.03 - Present*, Humboldt Research Fellow, Geotechnical Institute, TU Bergakademie Freiberg, Germany
   
-  **Collaborative Supervisor:** [Prof. Heinz Konietzky](https://geotechnics.webador.de/)
+  **Host:** [Prof. Heinz Konietzky](https://geotechnics.webador.de/)
 - *2024.08 - 2025.03*, Guest Researcher, Deep Earth Energy Research Laboratory, Monash University, Australia
   
   **Collaborative Supervisor:** [Prof. P.G. Ranjith](https://3gdeep.com/)
