@@ -79,6 +79,7 @@ Dr. Yang is currently a Humboldt Research Fellow at TU Bergakademie Freiberg, Ge
 
 
 # 🎖 Functions and Honours
+- *2026.05 - Present*: Early Career Editorial Board Member, Deep Resources Engineering
 - *2026.03 - Present*: Guest Editor, Applied sciences (JCR Q2)
 - *2026.01 - Present*: Associate Editor, Frontiers in Earth Science (JCR Q3)
 - *2025.11*: Humboldt Research Fellowship, Alexander von Humboldt Foundation
