@@ -1,0 +1,43 @@
+name: Update Scholar metrics and deploy website
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+
+# Uses the existing Pages deployment permissions; no repository write access.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Refresh public Google Scholar metrics
+        run: python3 update_scholar.py
+      - name: Prepare static website
+        run: |
+          mkdir _site
+          cp index.html styles.css script.js portrait.jpg favicon.png rmre.png eg.png jrmge.png robots.txt sitemap.xml scholar-metrics.json .nojekyll _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
