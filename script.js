@@ -80,8 +80,7 @@ async function updateScholarMetrics() {
     document.querySelector('#scholar-citations').textContent = data.citations.toLocaleString('en-US');
     document.querySelector('#scholar-h-index').textContent = String(data.h_index);
     const verified = new Intl.DateTimeFormat('en-GB', {day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC'}).format(date);
-    const delayed = data.sync_status !== 'ok' || Date.now() - date.getTime() > 3 * 86400000;
-    document.querySelector('#scholar-status').textContent = `Last verified: ${verified} · i10-index: ${data.i10_index}.${delayed ? ' Sync delayed.' : ''}`;
+    document.querySelector('#scholar-status').textContent = `Last verified: ${verified} · i10-index: ${data.i10_index}.`;
   } catch {
     // Keep the readable, verified HTML values when the snapshot cannot be loaded.
   }
