@@ -4,9 +4,6 @@
 
 页面版权署名：© 2026 Zheng Yang. All rights reserved.
 
-## 发布
-
-创建公开仓库 `zhengyang-yz.github.io`，上传本目录全部文件到仓库根目录。在 Settings → Pages 选择 Deploy from a branch、main 和 /(root)。GitHub Pages 部署成功后即可通过上述域名访问。
 
 ## 修改资料
 
