@@ -65,3 +65,25 @@ if (filters && search && year && cited && count && empty && reset) {
 
 const copyright = document.querySelector('#copyright-year');
 if (copyright) copyright.textContent = String(new Date().getFullYear());
+
+// Read the same-origin snapshot prepared by the scheduled Pages build.
+async function updateScholarMetrics() {
+  try {
+    const response = await fetch('scholar-metrics.json', {cache: 'no-store'});
+    if (!response.ok) return;
+    const data = await response.json();
+    if (data.profile_id !== 'NhYiCs4AAAAJ' ||
+        !['citations', 'h_index', 'i10_index'].every(key => Number.isSafeInteger(data[key]) && data[key] >= 0) ||
+        data.citations < data.h_index ** 2) return;
+    const date = new Date(data.updated_at);
+    if (!Number.isFinite(date.getTime())) return;
+    document.querySelector('#scholar-citations').textContent = data.citations.toLocaleString('en-US');
+    document.querySelector('#scholar-h-index').textContent = String(data.h_index);
+    const verified = new Intl.DateTimeFormat('en-GB', {day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC'}).format(date);
+    const delayed = data.sync_status !== 'ok' || Date.now() - date.getTime() > 3 * 86400000;
+    document.querySelector('#scholar-status').textContent = `Last verified: ${verified} · i10-index: ${data.i10_index}.${delayed ? ' Sync delayed.' : ''}`;
+  } catch {
+    // Keep the readable, verified HTML values when the snapshot cannot be loaded.
+  }
+}
+updateScholarMetrics();
