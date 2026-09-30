@@ -3,6 +3,7 @@ import json
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 PROFILE_ID = "NhYiCs4AAAAJ"
@@ -75,20 +76,26 @@ def fetch(url):
 
 def refresh():
     previous = validate(json.loads(DATA_PATH.read_text(encoding="utf-8")))
+    published_unavailable = False
     try:
         published = validate(json.loads(fetch(SITE_URL)))
         if published["updated_at"] > previous["updated_at"]:
             previous = published
+    except HTTPError as error:
+        published_unavailable = error.code != 404  # A first deployment has no snapshot yet.
     except Exception:
-        pass  # First deployment or temporarily unavailable site: use checked-in data.
+        published_unavailable = True
     try:
         current = parse_metrics(fetch(PROFILE_URL))
         status = "ok"
         print(f"Scholar verified: {current['citations']} citations, h-index {current['h_index']}")
     except Exception as error:
+        if published_unavailable:
+            raise RuntimeError("Both published snapshot and Scholar unavailable; leave live website unchanged") from error
         current = {key: previous[key] for key in ("profile_id", "profile_url", "citations", "h_index", "i10_index", "updated_at")}
         status = "unavailable"
-        print(f"Scholar sync unavailable ({type(error).__name__}); retaining verified values")
+        reason = f"HTTP {error.code}" if isinstance(error, HTTPError) else type(error).__name__
+        print(f"::warning::Scholar sync unavailable ({reason}); retaining verified values")
     today = datetime.now(timezone.utc).isoformat(timespec="seconds")
     history = previous.get("history", [])
     if status == "ok":
