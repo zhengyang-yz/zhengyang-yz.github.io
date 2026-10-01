@@ -30,12 +30,13 @@ if (header && menuButton && navigation) {
 const filters = document.querySelector('.publication-filters');
 const search = document.querySelector('#publication-search');
 const year = document.querySelector('#publication-year');
+const representative = document.querySelector('#representative-only');
 const cited = document.querySelector('#highly-cited');
 const count = document.querySelector('#publication-count');
 const empty = document.querySelector('#no-publications');
 const reset = document.querySelector('#reset-filters');
 const papers = [...document.querySelectorAll('#publication-list > li')];
-if (filters && search && year && cited && count && empty && reset) {
+if (filters && search && year && cited && representative && count && empty && reset) {
   filters.hidden = false;
   const searchable = papers.map(element => ({element, text: element.textContent.toLocaleLowerCase()}));
   function updatePublications() {
@@ -44,7 +45,8 @@ if (filters && search && year && cited && count && empty && reset) {
     searchable.forEach(({element, text}) => {
       const match = query.every(word => text.includes(word)) &&
         (year.value === 'all' || element.dataset.year === year.value) &&
-        (!cited.checked || element.dataset.cited === 'true');
+        (!cited.checked || element.dataset.cited === 'true') &&
+        (!representative.checked || element.dataset.representative === 'true');
       element.hidden = !match;
       if (match) visible++;
     });
@@ -55,6 +57,7 @@ if (filters && search && year && cited && count && empty && reset) {
   search.addEventListener('input', updatePublications);
   year.addEventListener('change', updatePublications);
   cited.addEventListener('change', updatePublications);
+  representative.addEventListener('change', updatePublications);
   reset.addEventListener('click', () => {
     filters.reset();
     updatePublications();
