@@ -36,7 +36,6 @@
 .institution-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
 .institution-logo{display:flex;align-items:center;justify-content:center;height:148px;padding:24px;background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .18s ease,box-shadow .18s ease}
 .institution-logo img{display:block;max-width:100%;width:100%;height:100%;object-fit:contain}
-.institution-logo:hover{border-color:var(--teal);box-shadow:0 6px 20px #142c3c0b}
 .institution-logo.logo-dark{background:#153b50;border-color:#153b50}
 .institution-logo.logo-melbourne img{width:100px;height:100px}
 .institution-logo.logo-freiberg img{width:100px;height:100px}
