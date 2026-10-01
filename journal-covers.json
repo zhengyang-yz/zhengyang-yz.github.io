@@ -63,7 +63,10 @@
       "file": "cover-jrmge.jpg",
       "impact_factor": 10.8,
       "checked_at": "2026-10-01",
-      "inclusion": "User-requested exception to fully open access journal exclusion."
+      "inclusion": "User-requested exception to fully open access journal exclusion.",
+      "display_order": 5,
+      "verified_at": "2026-10-01",
+      "publishing_model": "Fully open access; user-requested inclusion"
     },
     {
       "key": "jcp",
@@ -73,7 +76,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-jcp.jpg",
-      "display_order": 5,
+      "display_order": 6,
       "impact_factor": 10.7,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -86,7 +89,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-jes.jpg",
-      "display_order": 6,
+      "display_order": 7,
       "impact_factor": 10.7,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -99,7 +102,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-energy.jpg",
-      "display_order": 7,
+      "display_order": 8,
       "impact_factor": 10.1,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -112,7 +115,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-re.jpg",
-      "display_order": 8,
+      "display_order": 9,
       "impact_factor": 9.1,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -125,7 +128,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-eb.jpg",
-      "display_order": 9,
+      "display_order": 10,
       "impact_factor": 8.0,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -138,7 +141,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-psep.jpg",
-      "display_order": 10,
+      "display_order": 11,
       "impact_factor": 7.9,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -151,7 +154,7 @@
       "width": 563,
       "height": 768,
       "file": "cover-efa.jpg",
-      "display_order": 11,
+      "display_order": 12,
       "impact_factor": 7.0,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -164,7 +167,7 @@
       "width": 563,
       "height": 768,
       "file": "cover-efm.jpg",
-      "display_order": 12,
+      "display_order": 13,
       "impact_factor": 6.2,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -177,7 +180,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-tafm.jpg",
-      "display_order": 13,
+      "display_order": 14,
       "impact_factor": 6.0,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -190,7 +193,7 @@
       "width": 576,
       "height": 768,
       "file": "cover-sdee.jpg",
-      "display_order": 14,
+      "display_order": 15,
       "impact_factor": 5.1,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
@@ -203,7 +206,7 @@
       "width": 158,
       "height": 210,
       "file": "cover-bege.png",
-      "display_order": 15,
+      "display_order": 16,
       "impact_factor": 4.9,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
