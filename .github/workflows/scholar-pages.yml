@@ -34,6 +34,7 @@ jobs:
         run: |
           mkdir _site
           if [ -f journal-covers.json ]; then cp cover-* journal-covers.json _site/; fi
+          if [ -f collaboration-network.json ]; then cp logo-* collaboration-network.json _site/; fi
           cp index.html styles.css script.js portrait.jpg favicon.png rmre.png eg.png jrmge.png robots.txt sitemap.xml scholar-metrics.json .nojekyll _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
