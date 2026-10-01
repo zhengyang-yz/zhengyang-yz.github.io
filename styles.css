@@ -30,3 +30,16 @@
 @media(max-width:1100px){.journal-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:25px 20px}.cover-image{height:175px}}
 @media(max-width:760px){.journal-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px 16px}.cover-image{height:160px;padding:8px}.journal-section .section-heading{display:block}.journal-intro{margin-top:10px;font-size:13px}.journal-cover figcaption{font-size:11px}}
 @media(max-width:420px){.journal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.cover-image{height:190px}}
+
+/* Official institution marks, with generous space and accessible name labels. */
+.network-section .section-heading{margin-bottom:28px}
+.institution-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.institution-logo{display:flex;align-items:center;justify-content:center;height:148px;padding:24px;background:#fff;border:1px solid var(--line);border-radius:8px;transition:border-color .18s ease,box-shadow .18s ease}
+.institution-logo img{display:block;max-width:100%;width:100%;height:100%;object-fit:contain}
+.institution-logo:hover{border-color:var(--teal);box-shadow:0 6px 20px #142c3c0b}
+.institution-logo.logo-dark{background:#153b50;border-color:#153b50}
+.institution-logo.logo-melbourne img{width:100px;height:100px}
+.institution-logo.logo-freiberg img{width:100px;height:100px}
+.institution-logo.logo-petra{padding:24px 16px}.institution-logo.logo-mehran{padding:24px 16px}
+@media(max-width:760px){.institution-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.institution-logo{height:126px;padding:18px}.institution-logo.logo-melbourne img,.institution-logo.logo-freiberg img{width:88px;height:88px}.network-section .section-heading h2{max-width:none}.publication-section .section-heading{align-items:start}.publication-section .section-heading h2{max-width:76%}}
+@media(max-width:420px){.institution-logo{height:108px;padding:14px}.institution-logo.logo-melbourne img,.institution-logo.logo-freiberg img{width:76px;height:76px}.institution-logo.logo-petra,.institution-logo.logo-mehran{padding:14px 10px}.publication-section .section-heading{display:block}.publication-section .section-heading h2{max-width:none}.publication-section .section-heading p{margin-top:10px}}

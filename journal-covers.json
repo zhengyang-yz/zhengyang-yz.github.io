@@ -1,5 +1,5 @@
 {
-  "ordering": "Core rock mechanics and geotechnics journals first; other venues by publisher-reported impact factor descending. Fully open access journals excluded.",
+  "ordering": "Core rock mechanics and geotechnics journals first; other venues by publisher-reported impact factor descending. Fully open access journals excluded except JRMGE, explicitly requested by the user.",
   "journals": [
     {
       "key": "ijrmms",
@@ -52,6 +52,18 @@
       "impact_factor": 7.1,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
+    },
+    {
+      "key": "jrmge",
+      "name": "Journal of Rock Mechanics and Geotechnical Engineering",
+      "page": "https://www.sciencedirect.com/journal/journal-of-rock-mechanics-and-geotechnical-engineering",
+      "src": "https://ars.els-cdn.com/content/image/X16747755.jpg",
+      "width": 543,
+      "height": 768,
+      "file": "cover-jrmge.jpg",
+      "impact_factor": 10.8,
+      "checked_at": "2026-10-01",
+      "inclusion": "User-requested exception to fully open access journal exclusion."
     },
     {
       "key": "jcp",
@@ -197,19 +209,6 @@
       "publishing_model": "Subscription / hybrid"
     },
     {
-      "key": "eds",
-      "name": "Environment, Development and Sustainability",
-      "page": "https://link.springer.com/journal/10668",
-      "src": "https://media.springernature.com/w158/springer-static/cover-hires/journal/10668?as=webp,",
-      "width": 158,
-      "height": 240,
-      "file": "cover-eds.png",
-      "display_order": 16,
-      "impact_factor": 4.9,
-      "verified_at": "2026-10-01",
-      "publishing_model": "Subscription / hybrid"
-    },
-    {
       "key": "ffems",
       "name": "Fatigue & Fracture of Engineering Materials & Structures",
       "page": "https://onlinelibrary.wiley.com/journal/14602695",
@@ -232,32 +231,6 @@
       "file": "cover-ijdm.png",
       "display_order": 18,
       "impact_factor": 3.0,
-      "verified_at": "2026-10-01",
-      "publishing_model": "Subscription / hybrid"
-    },
-    {
-      "key": "mme",
-      "name": "Mining, Metallurgy & Exploration",
-      "page": "https://link.springer.com/journal/42461",
-      "src": "https://media.springernature.com/w158/springer-static/cover-hires/journal/42461?as=webp,",
-      "width": 158,
-      "height": 204,
-      "file": "cover-mme.png",
-      "display_order": 19,
-      "impact_factor": 2.5,
-      "verified_at": "2026-10-01",
-      "publishing_model": "Subscription / hybrid"
-    },
-    {
-      "key": "ajg",
-      "name": "Arabian Journal of Geosciences",
-      "page": "https://link.springer.com/journal/12517",
-      "src": "https://media.springernature.com/w158/springer-static/cover-hires/journal/12517?as=webp,",
-      "width": 158,
-      "height": 209,
-      "file": "cover-ajg.png",
-      "display_order": 20,
-      "impact_factor": null,
       "verified_at": "2026-10-01",
       "publishing_model": "Subscription / hybrid"
     }

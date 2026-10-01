@@ -1,0 +1,69 @@
+{
+  "institutions": [
+    {
+      "key": "humboldt",
+      "name": "Alexander von Humboldt Foundation",
+      "page": "https://www.humboldt-foundation.de/en/",
+      "file": "logo-humboldt.svg",
+      "dark": false,
+      "source": "https://assets.humboldt-foundation.de/2/images/AvH-Logo.svg"
+    },
+    {
+      "key": "melbourne",
+      "name": "The University of Melbourne",
+      "page": "https://www.unimelb.edu.au/",
+      "file": "logo-melbourne.svg",
+      "dark": false,
+      "source": "Official homepage header image (embedded SVG)"
+    },
+    {
+      "key": "monash",
+      "name": "Monash University",
+      "page": "https://www.monash.edu/",
+      "file": "logo-monash.svg",
+      "dark": false,
+      "source": "https://www.monash.edu/__data/assets/git_bridge/0006/509343/deploy/mysource_files/monash-logo.svg"
+    },
+    {
+      "key": "freiberg",
+      "name": "TU Bergakademie Freiberg",
+      "page": "https://tu-freiberg.de/en",
+      "file": "logo-freiberg.svg",
+      "dark": true,
+      "source": "https://tu-freiberg.de/themes/custom/tubaf_barrio/logo.svg"
+    },
+    {
+      "key": "csu",
+      "name": "Central South University",
+      "page": "https://en.csu.edu.cn/",
+      "file": "logo-csu.jpg",
+      "dark": false,
+      "source": "https://en.csu.edu.cn/images/logo1.jpg"
+    },
+    {
+      "key": "petra",
+      "name": "University of Petra",
+      "page": "https://www.uop.edu.jo/",
+      "file": "logo-petra.png",
+      "dark": true,
+      "source": "https://www.uop.edu.jo/assets/images/petra_logoEn.png"
+    },
+    {
+      "key": "mehran",
+      "name": "Mehran University of Engineering and Technology",
+      "page": "https://www.muet.edu.pk/",
+      "file": "logo-mehran.svg",
+      "dark": true,
+      "source": "https://www.muet.edu.pk/sites/default/files/muet-logo-dark.svg"
+    },
+    {
+      "key": "hunan",
+      "name": "Hunan University / 湖南大学",
+      "page": "https://www.hnu.edu.cn/",
+      "file": "logo-hunan.png",
+      "dark": true,
+      "source": "https://www.hnu.edu.cn/images/logo.png"
+    }
+  ],
+  "checked_at": "2026-10-01"
+}
