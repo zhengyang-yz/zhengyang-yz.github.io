@@ -33,14 +33,6 @@
       "source": "https://tu-freiberg.de/themes/custom/tubaf_barrio/logo.svg"
     },
     {
-      "key": "csu",
-      "name": "Central South University",
-      "page": "https://en.csu.edu.cn/",
-      "file": "logo-csu.jpg",
-      "dark": false,
-      "source": "https://en.csu.edu.cn/images/logo1.jpg"
-    },
-    {
       "key": "petra",
       "name": "University of Petra",
       "page": "https://www.uop.edu.jo/",
@@ -55,6 +47,14 @@
       "file": "logo-mehran.svg",
       "dark": true,
       "source": "https://www.muet.edu.pk/sites/default/files/muet-logo-dark.svg"
+    },
+    {
+      "key": "csu",
+      "name": "Central South University",
+      "page": "https://en.csu.edu.cn/",
+      "file": "logo-csu.jpg",
+      "dark": false,
+      "source": "https://en.csu.edu.cn/images/logo1.jpg"
     },
     {
       "key": "hunan",
