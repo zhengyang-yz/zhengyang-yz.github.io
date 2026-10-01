@@ -8,7 +8,7 @@ from urllib.request import Request, urlopen
 
 PROFILE_ID = "NhYiCs4AAAAJ"
 PROFILE_URL = f"https://scholar.google.com/citations?user={PROFILE_ID}&hl=en"
-SITE_URL = "https://zhengyang-yz.github.io/scholar-metrics.json"
+SITE_URL = "https://zhengyang.rocks/scholar-metrics.json"
 DATA_PATH = Path(__file__).with_name("scholar-metrics.json")
 
 

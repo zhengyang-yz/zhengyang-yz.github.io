@@ -2,7 +2,7 @@
 
 
 
-域名：https://zhengyang-yz.github.io/
+域名：https://zhengyang.rocks/
 
 
 

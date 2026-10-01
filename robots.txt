@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://zhengyang-yz.github.io/sitemap.xml
+Sitemap: https://zhengyang.rocks/sitemap.xml
