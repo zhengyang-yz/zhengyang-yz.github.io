@@ -71,7 +71,11 @@
       "file": "logo-jilin.gif",
       "dark": false,
       "source": "https://www.jlu.edu.cn/__local/8/7F/57/687D5DD0AB5C90FE12D284EB7CA_3270646D_38F9.gif",
-      "checked_at": "2026-10-12"
+      "checked_at": "2026-10-12",
+      "wordmark_file": "logo-jilin-wordmark.svg",
+      "wordmark_original": "logo-jilin-name.gif",
+      "wordmark_source": "https://www.jlu.edu.cn/__local/9/1B/52/5229D25D66CE390C2BB34765806_74BBECD1_156D.gif",
+      "wordmark_note": "Official calligraphic artwork; mapped from black to blue for the existing card palette."
     }
   ],
   "checked_at": "2026-10-01"
