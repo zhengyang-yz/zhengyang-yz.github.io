@@ -34,3 +34,11 @@
 首次核对为 1,112 次引用、H-index 21、i10-index 33。Google 会限制云端自动请求，首次 GitHub 抓取未成功；获取失败时保留最近成功快照，并在网站显示 Sync delayed。不会绕过验证码，不保证每日获取成功。
 
 `scholar-metrics.json` 保存最近成功日期及最多 365 天记录，`update_scholar.py` 获取和验证数据。工作流沿用 Pages 发布权限，不写入仓库，不需个人访问令牌。公开仓库长期无活动时，GitHub 可能自动停用定时任务，可在 Actions 页面重新启用。
+
+## Publication tools and static metrics (4 November 2026)
+
+- The 16 representative publications include DOI links, plain citation copying, expandable BibTeX, individual `.bib` downloads and a combined `publications.bib`. Verified Crossref metadata and source URLs are kept in `publications.json`.
+- `prepare_site.py` copies the public assets and renders citation count, H-index and verification date from `scholar-metrics.json` into the HTML. Pages runs it after `update_scholar.py`, so HTML and the same-origin JSON use one snapshot. Failed Scholar refreshes retain the previously verified values.
+- Run `python prepare_site.py` for a local static artifact in `_site/`. Preview it with `python -m http.server --directory _site`.
+- Copy controls use the Clipboard API with a selectable-text dialog fallback. Without JavaScript, publications, BibTeX downloads, profile content and verified metrics remain readable.
+- Official institutional artwork and the user-selected journal order are retained. Captions supply readable institution names. Education entries and CV download are intentionally unchanged.

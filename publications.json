@@ -1,0 +1,1421 @@
+[
+  {
+    "id": "paper-1",
+    "title": "Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity",
+    "year": 2026,
+    "display_authors": "Yang, Z., Tao, M., Yin T., Li Y. (2026).",
+    "display_journal": "International Journal of Rock Mechanics and Mining Sciences, 205, 106597.",
+    "doi": "10.1016/j.ijrmms.2026.106597",
+    "journal": "International Journal of Rock Mechanics and Mining Sciences",
+    "volume": "205",
+    "issue": "",
+    "pages": "106597",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9193-6610",
+        "authenticated-orcid": false,
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanliang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Cutting+performance+and+fragmentation+behavior+of+rock+under+confining+stress%3A+role+of+heterogeneity&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2026Paper1,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Li, Yanliang},\n  title = {{Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity}},\n  journal = {International Journal of Rock Mechanics and Mining Sciences},\n  year = {2026},\n  volume = {205},\n  pages = {106597},\n  doi = {10.1016/j.ijrmms.2026.106597},\n  url = {https://doi.org/10.1016/j.ijrmms.2026.106597},\n}\n",
+    "citation": "Yang, Z., Tao, M., Yin T., Li Y. (2026). Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity. International Journal of Rock Mechanics and Mining Sciences, 205, 106597. https://doi.org/10.1016/j.ijrmms.2026.106597"
+  },
+  {
+    "id": "paper-2",
+    "title": "Particle size and grain fabric effect on mechanical behavior of crystalline rocks using grain-based DEM",
+    "year": 2026,
+    "display_authors": "Yang, Z., Tao, M., Alqawasmeh, Q., Luo, H., Ranjith, P. G. (2026).",
+    "display_journal": "Bulletin of Engineering Geology and the Environment, 85, 149.",
+    "doi": "10.1007/s10064-026-04799-1",
+    "journal": "Bulletin of Engineering Geology and the Environment",
+    "volume": "85",
+    "issue": "3",
+    "pages": "149",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9193-6610",
+        "authenticated-orcid": false,
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2316-5532",
+        "authenticated-orcid": false,
+        "given": "Qusi I.",
+        "family": "Alqawasmeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hao",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0094-7141",
+        "authenticated-orcid": false,
+        "given": "P. G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works/10.1007/s10064-026-04799-1",
+    "match": 1.0,
+    "bibtex": "@article{Yang2026Paper2,\n  author = {Yang, Zheng and Tao, Ming and Alqawasmeh, Qusi I. and Luo, Hao and Ranjith, P. G.},\n  title = {{Particle size and grain fabric effect on mechanical behavior of crystalline rocks using grain-based DEM}},\n  journal = {Bulletin of Engineering Geology and the Environment},\n  year = {2026},\n  volume = {85},\n  number = {3},\n  pages = {149},\n  doi = {10.1007/s10064-026-04799-1},\n  url = {https://doi.org/10.1007/s10064-026-04799-1},\n}\n",
+    "citation": "Yang, Z., Tao, M., Alqawasmeh, Q., Luo, H., Ranjith, P. G. (2026). Particle size and grain fabric effect on mechanical behavior of crystalline rocks using grain-based DEM. Bulletin of Engineering Geology and the Environment, 85, 149. https://doi.org/10.1007/s10064-026-04799-1"
+  },
+  {
+    "id": "paper-3",
+    "title": "Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation",
+    "year": 2025,
+    "display_authors": "Yang, Z., Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025).",
+    "display_journal": "Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290.",
+    "doi": "10.1016/j.jrmge.2024.03.034",
+    "journal": "Journal of Rock Mechanics and Geotechnical Engineering",
+    "volume": "17",
+    "issue": "1",
+    "pages": "275-290",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad Burhan",
+        "family": "Memon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dengdeng",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5739-7980",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Microwave+irradiation-induced+deterioration+of+rock+mechanical+properties+and+implications+for+mechanized+hard+rock+excavation&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper3,\n  author = {Yang, Zheng and Tao, Ming and Memon, Muhammad Burhan and Zhuang, Dengdeng and Zhao, Yan},\n  title = {{Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation}},\n  journal = {Journal of Rock Mechanics and Geotechnical Engineering},\n  year = {2025},\n  volume = {17},\n  number = {1},\n  pages = {275-290},\n  doi = {10.1016/j.jrmge.2024.03.034},\n  url = {https://doi.org/10.1016/j.jrmge.2024.03.034},\n}\n",
+    "citation": "Yang, Z., Tao, M., Memon, M. B., Zhuang, D., Zhao, Y. (2025). Microwave irradiation-induced deterioration of rock mechanical properties and implications for mechanized hard rock excavation. Journal of Rock Mechanics and Geotechnical Engineering, 17(1), 275-290. https://doi.org/10.1016/j.jrmge.2024.03.034"
+  },
+  {
+    "id": "paper-4",
+    "title": "Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model",
+    "year": 2025,
+    "display_authors": "Yang, Z., Tao, M., Ranjith, P. G. (2025).",
+    "display_journal": "International Journal of Rock Mechanics and Mining Sciences, 189, 106098.",
+    "doi": "10.1016/j.ijrmms.2025.106098",
+    "journal": "International Journal of Rock Mechanics and Mining Sciences",
+    "volume": "189",
+    "issue": "",
+    "pages": "106098",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9193-6610",
+        "authenticated-orcid": false,
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0094-7141",
+        "authenticated-orcid": false,
+        "given": "P.G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Novel+insights+into+grain+size+effect+of+stressed+crystalline+rock+using+weakened+grain+boundary+model&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper4,\n  author = {Yang, Zheng and Tao, Ming and Ranjith, P.G.},\n  title = {{Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model}},\n  journal = {International Journal of Rock Mechanics and Mining Sciences},\n  year = {2025},\n  volume = {189},\n  pages = {106098},\n  doi = {10.1016/j.ijrmms.2025.106098},\n  url = {https://doi.org/10.1016/j.ijrmms.2025.106098},\n}\n",
+    "citation": "Yang, Z., Tao, M., Ranjith, P. G. (2025). Novel insights into grain size effect of stressed crystalline rock using weakened grain boundary model. International Journal of Rock Mechanics and Mining Sciences, 189, 106098. https://doi.org/10.1016/j.ijrmms.2025.106098"
+  },
+  {
+    "id": "paper-5",
+    "title": "Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing",
+    "year": 2025,
+    "display_authors": "Yang, Z., Narsilio, G. A., Tao, M., Fei, W., Luo, H., Memon, M. B. (2025).",
+    "display_journal": "Rock Mechanics and Rock Engineering, 59, 4821–4844.",
+    "doi": "10.1007/s00603-025-04995-7",
+    "journal": "Rock Mechanics and Rock Engineering",
+    "volume": "59",
+    "issue": "4",
+    "pages": "4821-4844",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1219-5661",
+        "authenticated-orcid": false,
+        "given": "Guillermo A.",
+        "family": "Narsilio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9193-6610",
+        "authenticated-orcid": false,
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9275-8403",
+        "authenticated-orcid": false,
+        "given": "Wenbin",
+        "family": "Fei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hao",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad Burhan",
+        "family": "Memon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works/10.1007/s00603-025-04995-7",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper5,\n  author = {Yang, Zheng and Narsilio, Guillermo A. and Tao, Ming and Fei, Wenbin and Luo, Hao and Memon, Muhammad Burhan},\n  title = {{Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing}},\n  journal = {Rock Mechanics and Rock Engineering},\n  year = {2025},\n  volume = {59},\n  number = {4},\n  pages = {4821-4844},\n  doi = {10.1007/s00603-025-04995-7},\n  url = {https://doi.org/10.1007/s00603-025-04995-7},\n}\n",
+    "citation": "Yang, Z., Narsilio, G. A., Tao, M., Fei, W., Luo, H., Memon, M. B. (2025). Microscale Heterogeneity Effect and Seismic Source Quantification On Stressed Rock During Shearing. Rock Mechanics and Rock Engineering, 59, 4821–4844. https://doi.org/10.1007/s00603-025-04995-7"
+  },
+  {
+    "id": "paper-6",
+    "title": "Critical grain size and shear behavior of polycrystalline rocks under confining pressure: A moment tensor-based GBM approach",
+    "year": 2025,
+    "display_authors": "Yang, Z., Alqawasmeh, Q., Ma, J., Dashtgoli, D., Cong, Z., Li, Y. (2025).",
+    "display_journal": "Computers and Geotechnics, 186, 107431.",
+    "doi": "10.1016/j.compgeo.2025.107431",
+    "journal": "Computers and Geotechnics",
+    "volume": "186",
+    "issue": "",
+    "pages": "107431",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2316-5532",
+        "authenticated-orcid": false,
+        "given": "Qusi I.",
+        "family": "Alqawasmeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jinyin",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9473-8396",
+        "authenticated-orcid": false,
+        "given": "Danial Sheini",
+        "family": "Dashtgoli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2262-1513",
+        "authenticated-orcid": false,
+        "given": "Ziyuan",
+        "family": "Cong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2501-2396",
+        "authenticated-orcid": false,
+        "given": "Yanliang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Critical+grain+size+and+shear+behavior+of+polycrystalline+rocks+under+confining+pressure%3A+A+moment+tensor-based+GBM+approach&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper6,\n  author = {Yang, Zheng and Alqawasmeh, Qusi I. and Ma, Jinyin and Dashtgoli, Danial Sheini and Cong, Ziyuan and Li, Yanliang},\n  title = {{Critical grain size and shear behavior of polycrystalline rocks under confining pressure: A moment tensor-based GBM approach}},\n  journal = {Computers and Geotechnics},\n  year = {2025},\n  volume = {186},\n  pages = {107431},\n  doi = {10.1016/j.compgeo.2025.107431},\n  url = {https://doi.org/10.1016/j.compgeo.2025.107431},\n}\n",
+    "citation": "Yang, Z., Alqawasmeh, Q., Ma, J., Dashtgoli, D., Cong, Z., Li, Y. (2025). Critical grain size and shear behavior of polycrystalline rocks under confining pressure: A moment tensor-based GBM approach. Computers and Geotechnics, 186, 107431. https://doi.org/10.1016/j.compgeo.2025.107431"
+  },
+  {
+    "id": "paper-7",
+    "title": "Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock",
+    "year": 2025,
+    "display_authors": "Yang, Z., Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025).",
+    "display_journal": "Underground Space, 20, 174-196.",
+    "doi": "10.1016/j.undsp.2024.06.003",
+    "journal": "Underground Space",
+    "volume": "20",
+    "issue": "",
+    "pages": "174-196",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wenbin",
+        "family": "Fei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Grain-based+coupled+thermo-mechanical+modeling+for+stressed+heterogeneous+granite+under+thermal+shock&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper7,\n  author = {Yang, Zheng and Tao, Ming and Fei, Wenbin and Yin, Tubing and Ranjith, P.G.},\n  title = {{Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock}},\n  journal = {Underground Space},\n  year = {2025},\n  volume = {20},\n  pages = {174-196},\n  doi = {10.1016/j.undsp.2024.06.003},\n  url = {https://doi.org/10.1016/j.undsp.2024.06.003},\n}\n",
+    "citation": "Yang, Z., Tao, M., Fei, W., Yin, T., Ranjith, P. G. (2025). Grain-based coupled thermo-mechanical modeling for stressed heterogeneous granite under thermal shock. Underground Space, 20, 174-196. https://doi.org/10.1016/j.undsp.2024.06.003"
+  },
+  {
+    "id": "paper-8",
+    "title": "Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters",
+    "year": 2025,
+    "display_authors": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025).",
+    "display_journal": "Engineering Fracture Mechanics, 315, 110845.",
+    "doi": "10.1016/j.engfracmech.2025.110845",
+    "journal": "Engineering Fracture Mechanics",
+    "volume": "315",
+    "issue": "",
+    "pages": "110845",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9193-6610",
+        "authenticated-orcid": false,
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hao",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chao",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Fragmentation+characteristics+of+stressed+rock+with+weak+interlayers+using+double+TBM+cutters&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2025Paper8,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Luo, Hao and Chen, Chao and Ranjith, P.G.},\n  title = {{Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters}},\n  journal = {Engineering Fracture Mechanics},\n  year = {2025},\n  volume = {315},\n  pages = {110845},\n  doi = {10.1016/j.engfracmech.2025.110845},\n  url = {https://doi.org/10.1016/j.engfracmech.2025.110845},\n}\n",
+    "citation": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters. Engineering Fracture Mechanics, 315, 110845. https://doi.org/10.1016/j.engfracmech.2025.110845"
+  },
+  {
+    "id": "paper-9",
+    "title": "Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization",
+    "year": 2024,
+    "display_authors": "Yang, Z., Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024).",
+    "display_journal": "Rock Mechanics and Rock Engineering, 57, 10467-10489.",
+    "doi": "10.1007/s00603-024-04099-8",
+    "journal": "Rock Mechanics and Rock Engineering",
+    "volume": "57",
+    "issue": "12",
+    "pages": "10467-10489",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad Burhan",
+        "family": "Memon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P. G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works/10.1007/s00603-024-04099-8",
+    "match": 1.0,
+    "bibtex": "@article{Yang2024Paper9,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Memon, Muhammad Burhan and Ranjith, P. G.},\n  title = {{Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization}},\n  journal = {Rock Mechanics and Rock Engineering},\n  year = {2024},\n  volume = {57},\n  number = {12},\n  pages = {10467-10489},\n  doi = {10.1007/s00603-024-04099-8},\n  url = {https://doi.org/10.1007/s00603-024-04099-8},\n}\n",
+    "citation": "Yang, Z., Tao, M., Yin, T., Memon, M. B., Ranjith, P. G. (2024). Grain-Based Modeling for Heterogeneous Rock Fragmentation Under Stressed Conditions and TBM Cutter Spacing Optimization. Rock Mechanics and Rock Engineering, 57, 10467-10489. https://doi.org/10.1007/s00603-024-04099-8"
+  },
+  {
+    "id": "paper-10",
+    "title": "A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock",
+    "year": 2024,
+    "display_authors": "Yang, Z., Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024).",
+    "display_journal": "Engineering Geology, 339, 107645.",
+    "doi": "10.1016/j.enggeo.2024.107645",
+    "journal": "Engineering Geology",
+    "volume": "339",
+    "issue": "",
+    "pages": "107645",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wenbin",
+        "family": "Fei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaoying",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guillermo A.",
+        "family": "Narsilio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=A+coupled+thermo-mechanical+model+for+investigating+cracking+and+failure+of+composite+interbedded+rock&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2024Paper10,\n  author = {Yang, Zheng and Tao, Ming and Fei, Wenbin and Yin, Tubing and Gu, Xiaoying and Narsilio, Guillermo A.},\n  title = {{A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock}},\n  journal = {Engineering Geology},\n  year = {2024},\n  volume = {339},\n  pages = {107645},\n  doi = {10.1016/j.enggeo.2024.107645},\n  url = {https://doi.org/10.1016/j.enggeo.2024.107645},\n}\n",
+    "citation": "Yang, Z., Tao, M., Fei, W., Yin, T., Gu, X., Narsilio, G. A. (2024). A coupled thermo-mechanical model for investigating cracking and failure of composite interbedded rock. Engineering Geology, 339, 107645. https://doi.org/10.1016/j.enggeo.2024.107645"
+  },
+  {
+    "id": "paper-11",
+    "title": "Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks",
+    "year": 2024,
+    "display_authors": "Yang, Z., Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024).",
+    "display_journal": "Journal of Energy Storage, 83, 110631.",
+    "doi": "10.1016/j.est.2024.110631",
+    "journal": "Journal of Energy Storage",
+    "volume": "83",
+    "issue": "",
+    "pages": "110631",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.G.",
+        "family": "Ranjith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dengdeng",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Muhammad Burhan",
+        "family": "Memon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hao",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Multiscale+damage+and+thermal-stress+evolution+characteristics+of+rocks+with+thermal+storage+potential+under+thermal+shocks&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2024Paper11,\n  author = {Yang, Zheng and Tao, Ming and Ranjith, P.G. and Zhuang, Dengdeng and Memon, Muhammad Burhan and Luo, Hao},\n  title = {{Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks}},\n  journal = {Journal of Energy Storage},\n  year = {2024},\n  volume = {83},\n  pages = {110631},\n  doi = {10.1016/j.est.2024.110631},\n  url = {https://doi.org/10.1016/j.est.2024.110631},\n}\n",
+    "citation": "Yang, Z., Tao, M., Ranjith, P. G., Zhuang, D., Memon, M. B., Luo, H. (2024). Multiscale damage and thermal-stress evolution characteristics of rocks with thermal storage potential under thermal shocks. Journal of Energy Storage, 83, 110631. https://doi.org/10.1016/j.est.2024.110631"
+  },
+  {
+    "id": "paper-12",
+    "title": "Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments",
+    "year": 2024,
+    "display_authors": "Yang, Z., Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024).",
+    "display_journal": "Engineering Fracture Mechanics, 310, 110479.",
+    "doi": "10.1016/j.engfracmech.2024.110479",
+    "journal": "Engineering Fracture Mechanics",
+    "volume": "310",
+    "issue": "",
+    "pages": "110479",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1512-3367",
+        "authenticated-orcid": false,
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xingyu",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gongliang",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-1990-7927",
+        "authenticated-orcid": false,
+        "given": "Yuanquan",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Microwave-assisted+TBM+cutter+for+efficient+hard+rock+fracturing+in+high+stress+environments&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2024Paper12,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Wu, Xingyu and Xiang, Gongliang and Xu, Yuanquan},\n  title = {{Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments}},\n  journal = {Engineering Fracture Mechanics},\n  year = {2024},\n  volume = {310},\n  pages = {110479},\n  doi = {10.1016/j.engfracmech.2024.110479},\n  url = {https://doi.org/10.1016/j.engfracmech.2024.110479},\n}\n",
+    "citation": "Yang, Z., Tao, M., Yin, T., Wu, X., Xiang, G., Xu, Y. (2024). Microwave-assisted TBM cutter for efficient hard rock fracturing in high stress environments. Engineering Fracture Mechanics, 310, 110479. https://doi.org/10.1016/j.engfracmech.2024.110479"
+  },
+  {
+    "id": "paper-13",
+    "title": "Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting",
+    "year": 2024,
+    "display_authors": "Tao, M., Yang, Z.*, Zhao, Y., Wu, X., & Wu, C. (2024).",
+    "display_journal": "Energy, 292, 130489.",
+    "doi": "10.1016/j.energy.2024.130489",
+    "journal": "Energy",
+    "volume": "292",
+    "issue": "",
+    "pages": "130489",
+    "authors": [
+      {
+        "given": "Ming",
+        "family": "Tao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5739-7980",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9891-3945",
+        "authenticated-orcid": false,
+        "given": "Xingyu",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8907-8493",
+        "authenticated-orcid": false,
+        "given": "Chengqing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Failure+characteristics+of+microwave+heat-treated+stressed+sandstone%3A+Implications+for+deep+rock+breakage+using+TBM+cutting&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2024Paper13,\n  author = {Tao, Ming and Yang, Zheng and Zhao, Yan and Wu, Xingyu and Wu, Chengqing},\n  title = {{Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting}},\n  journal = {Energy},\n  year = {2024},\n  volume = {292},\n  pages = {130489},\n  doi = {10.1016/j.energy.2024.130489},\n  url = {https://doi.org/10.1016/j.energy.2024.130489},\n}\n",
+    "citation": "Tao, M., Yang, Z., Zhao, Y., Wu, X., & Wu, C. (2024). Failure characteristics of microwave heat-treated stressed sandstone: Implications for deep rock breakage using TBM cutting. Energy, 292, 130489. https://doi.org/10.1016/j.energy.2024.130489"
+  },
+  {
+    "id": "paper-14",
+    "title": "Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study",
+    "year": 2023,
+    "display_authors": "Yang, Z., Yin, T., Wu, Y., Zhuang, D., Yin, J., Ma, J. (2023).",
+    "display_journal": "Fatigue and Fracture of Engineering Materials and Structures, 46(3), 814-834.",
+    "doi": "10.1111/ffe.13897",
+    "journal": "Fatigue &amp; Fracture of Engineering Materials &amp; Structures",
+    "volume": "46",
+    "issue": "3",
+    "pages": "814-834",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "You",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dengdeng",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          },
+          {
+            "name": "Oulu Mining School University of Oulu  Oulu Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiewen",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiexin",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering Central South University  Changsha Hunan China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works/10.1111/ffe.13897",
+    "match": 1.0,
+    "bibtex": "@article{Yang2023Paper14,\n  author = {Yang, Zheng and Yin, Tubing and Wu, You and Zhuang, Dengdeng and Yin, Jiewen and Ma, Jiexin},\n  title = {{Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study}},\n  journal = {Fatigue \\& Fracture of Engineering Materials \\& Structures},\n  year = {2023},\n  volume = {46},\n  number = {3},\n  pages = {814-834},\n  doi = {10.1111/ffe.13897},\n  url = {https://doi.org/10.1111/ffe.13897},\n}\n",
+    "citation": "Yang, Z., Yin, T., Wu, Y., Zhuang, D., Yin, J., Ma, J. (2023). Mixed-mode I/II fracture properties and failure characteristics of microwave-irradiated basalt: An experimental study. Fatigue and Fracture of Engineering Materials and Structures, 46(3), 814-834. https://doi.org/10.1111/ffe.13897"
+  },
+  {
+    "id": "paper-15",
+    "title": "Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation",
+    "year": 2022,
+    "display_authors": "Yang, Z., Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022).",
+    "display_journal": "Theoretical and Applied Fracture Mechanics, 122, 103571.",
+    "doi": "10.1016/j.tafmec.2022.103571",
+    "journal": "Theoretical and Applied Fracture Mechanics",
+    "volume": "122",
+    "issue": "",
+    "pages": "103571",
+    "authors": [
+      {
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dengdeng",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "You",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiewen",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yongjun",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works?query.title=Effect+of+temperature+on+mixed+mode+I%2FIII+fracture+behavior+of+diorite%3A+An+experimental+investigation&rows=3",
+    "match": 1.0,
+    "bibtex": "@article{Yang2022Paper15,\n  author = {Yang, Zheng and Yin, Tubing and Zhuang, Dengdeng and Wu, You and Yin, Jiewen and Chen, Yongjun},\n  title = {{Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation}},\n  journal = {Theoretical and Applied Fracture Mechanics},\n  year = {2022},\n  volume = {122},\n  pages = {103571},\n  doi = {10.1016/j.tafmec.2022.103571},\n  url = {https://doi.org/10.1016/j.tafmec.2022.103571},\n}\n",
+    "citation": "Yang, Z., Yin, T., Zhuang, D., Wu, Y., Yin, J., Chen, Y. (2022). Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation. Theoretical and Applied Fracture Mechanics, 122, 103571. https://doi.org/10.1016/j.tafmec.2022.103571"
+  },
+  {
+    "id": "paper-16",
+    "title": "Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite",
+    "year": 2022,
+    "display_authors": "Yin, T., Yang, Z.*, Wu, Y., Tan, X., Li, M. (2022).",
+    "display_journal": "International Journal of Damage Mechanics, 31(8), 1139-1164.",
+    "doi": "10.1177/10567895221092168",
+    "journal": "International Journal of Damage Mechanics",
+    "volume": "31",
+    "issue": "8",
+    "pages": "1139-1164",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1512-3367",
+        "authenticated-orcid": false,
+        "given": "Tubing",
+        "family": "Yin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering, Central South University, Changsha, Hunan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0726-563X",
+        "authenticated-orcid": false,
+        "given": "Zheng",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering, Central South University, Changsha, Hunan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "You",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering, Central South University, Changsha, Hunan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaosong",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering, Central South University, Changsha, Hunan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mingjian",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Resources and Safety Engineering, Central South University, Changsha, Hunan, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "source": "https://api.crossref.org/works/10.1177/10567895221092168",
+    "match": 1.0,
+    "bibtex": "@article{Yang2022Paper16,\n  author = {Yin, Tubing and Yang, Zheng and Wu, You and Tan, Xiaosong and Li, Mingjian},\n  title = {{Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite}},\n  journal = {International Journal of Damage Mechanics},\n  year = {2022},\n  volume = {31},\n  number = {8},\n  pages = {1139-1164},\n  doi = {10.1177/10567895221092168},\n  url = {https://doi.org/10.1177/10567895221092168},\n}\n",
+    "citation": "Yin, T., Yang, Z., Wu, Y., Tan, X., Li, M. (2022). Experimental investigation on the effect of open fire on the tensile properties and damage evolution behavior of granite. International Journal of Damage Mechanics, 31(8), 1139-1164. https://doi.org/10.1177/10567895221092168"
+  }
+]

@@ -1,16 +1,52 @@
 {
   "profile_id": "NhYiCs4AAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=NhYiCs4AAAAJ&hl=en",
-  "citations": 1112,
+  "citations": 1145,
   "h_index": 21,
   "i10_index": 33,
-  "updated_at": "2026-09-30T14:11:37+00:00",
-  "sync_status": "ok",
-  "last_attempt_at": "2026-09-30T14:11:37+00:00",
+  "updated_at": "2026-10-29T11:36:56+00:00",
+  "sync_status": "unavailable",
+  "last_attempt_at": "2026-11-04T12:29:43+00:00",
   "history": [
     {
       "date": "2026-09-30",
       "citations": 1112,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-01",
+      "citations": 1112,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-10",
+      "citations": 1122,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-17",
+      "citations": 1131,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-24",
+      "citations": 1139,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-28",
+      "citations": 1146,
+      "h_index": 21,
+      "i10_index": 33
+    },
+    {
+      "date": "2026-10-29",
+      "citations": 1145,
       "h_index": 21,
       "i10_index": 33
     }

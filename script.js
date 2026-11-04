@@ -37,7 +37,7 @@ const reset = document.querySelector('#reset-filters');
 const papers = [...document.querySelectorAll('#publication-list > li')];
 if (filters && search && year && cited && count && empty && reset) {
   filters.hidden = false;
-  const searchable = papers.map(element => ({element, text: element.textContent.toLocaleLowerCase()}));
+  const searchable = papers.map(element => ({element, text: [element.querySelector('h3').textContent, element.querySelector('.authors').textContent, element.querySelector('.publication-journal').textContent, element.dataset.doi].join(' ').toLocaleLowerCase()}));
   function updatePublications() {
     const query = search.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
     let visible = 0;
@@ -86,3 +86,29 @@ async function updateScholarMetrics() {
   }
 }
 updateScholarMetrics();
+
+// Citation export is available without a third-party service or sign-in.
+document.querySelectorAll('.copy-citation, .copy-bibtex').forEach(button => {
+  button.hidden = false;
+  button.addEventListener('click', async () => {
+    const text = button.classList.contains('copy-citation')
+      ? button.dataset.citation
+      : button.closest('.citation-body').querySelector('code').textContent;
+    const status = document.querySelector('#citation-status');
+    try {
+      await navigator.clipboard.writeText(text);
+      status.textContent = 'Citation copied to clipboard.';
+      const label = button.textContent;
+      button.textContent = 'Copied';
+      setTimeout(() => { button.textContent = label; }, 2000);
+    } catch {
+      const dialog = document.querySelector('#citation-dialog');
+      const output = dialog.querySelector('textarea');
+      output.value = text;
+      dialog.showModal();
+      output.focus();
+      output.select();
+      status.textContent = 'Select and copy the citation text in the dialog.';
+    }
+  });
+});
