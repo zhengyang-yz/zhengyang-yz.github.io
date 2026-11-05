@@ -3,7 +3,7 @@
     "id": "paper-1",
     "title": "Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity",
     "year": 2026,
-    "display_authors": "Yang, Z., Tao, M., Yin T., Li Y. (2026).",
+    "display_authors": "Yang, Z., Tao, M., Yin, T., Li, Y. (2026).",
     "display_journal": "International Journal of Rock Mechanics and Mining Sciences, 205, 106597.",
     "doi": "10.1016/j.ijrmms.2026.106597",
     "journal": "International Journal of Rock Mechanics and Mining Sciences",
@@ -67,7 +67,7 @@
     "source": "https://api.crossref.org/works?query.title=Cutting+performance+and+fragmentation+behavior+of+rock+under+confining+stress%3A+role+of+heterogeneity&rows=3",
     "match": 1.0,
     "bibtex": "@article{Yang2026Paper1,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Li, Yanliang},\n  title = {{Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity}},\n  journal = {International Journal of Rock Mechanics and Mining Sciences},\n  year = {2026},\n  volume = {205},\n  pages = {106597},\n  doi = {10.1016/j.ijrmms.2026.106597},\n  url = {https://doi.org/10.1016/j.ijrmms.2026.106597},\n}\n",
-    "citation": "Yang, Z., Tao, M., Yin T., Li Y. (2026). Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity. International Journal of Rock Mechanics and Mining Sciences, 205, 106597. https://doi.org/10.1016/j.ijrmms.2026.106597"
+    "citation": "Yang, Z., Tao, M., Yin, T., Li, Y. (2026). Cutting performance and fragmentation behavior of rock under confining stress: role of heterogeneity. International Journal of Rock Mechanics and Mining Sciences, 205, 106597. https://doi.org/10.1016/j.ijrmms.2026.106597"
   },
   {
     "id": "paper-2",
@@ -577,7 +577,7 @@
     "id": "paper-8",
     "title": "Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters",
     "year": 2025,
-    "display_authors": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025).",
+    "display_authors": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen, C., Ranjith, P. G. (2025).",
     "display_journal": "Engineering Fracture Mechanics, 315, 110845.",
     "doi": "10.1016/j.engfracmech.2025.110845",
     "journal": "Engineering Fracture Mechanics",
@@ -665,7 +665,7 @@
     "source": "https://api.crossref.org/works?query.title=Fragmentation+characteristics+of+stressed+rock+with+weak+interlayers+using+double+TBM+cutters&rows=3",
     "match": 1.0,
     "bibtex": "@article{Yang2025Paper8,\n  author = {Yang, Zheng and Tao, Ming and Yin, Tubing and Luo, Hao and Chen, Chao and Ranjith, P.G.},\n  title = {{Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters}},\n  journal = {Engineering Fracture Mechanics},\n  year = {2025},\n  volume = {315},\n  pages = {110845},\n  doi = {10.1016/j.engfracmech.2025.110845},\n  url = {https://doi.org/10.1016/j.engfracmech.2025.110845},\n}\n",
-    "citation": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen C., Ranjith, P. G. (2025). Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters. Engineering Fracture Mechanics, 315, 110845. https://doi.org/10.1016/j.engfracmech.2025.110845"
+    "citation": "Yang, Z., Tao, M., Yin, T., Luo, H., Chen, C., Ranjith, P. G. (2025). Fragmentation characteristics of stressed rock with weak interlayers using double TBM cutters. Engineering Fracture Mechanics, 315, 110845. https://doi.org/10.1016/j.engfracmech.2025.110845"
   },
   {
     "id": "paper-9",

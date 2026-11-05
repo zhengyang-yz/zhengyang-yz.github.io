@@ -41,4 +41,12 @@
 - `prepare_site.py` copies the public assets and renders citation count, H-index and verification date from `scholar-metrics.json` into the HTML. Pages runs it after `update_scholar.py`, so HTML and the same-origin JSON use one snapshot. Failed Scholar refreshes retain the previously verified values.
 - Run `python prepare_site.py` for a local static artifact in `_site/`. Preview it with `python -m http.server --directory _site`.
 - Copy controls use the Clipboard API with a selectable-text dialog fallback. Without JavaScript, publications, BibTeX downloads, profile content and verified metrics remain readable.
-- Official institutional artwork and the user-selected journal order are retained. Captions supply readable institution names. Education entries and CV download are intentionally unchanged.
+- Official institutional artwork and the user-selected journal order are retained. Captions supply readable institution names. CV download is intentionally unchanged.
+
+## 2026-11-05 优化
+
+- 头像：`portrait-400.webp` / `portrait-800.webp`（`portrait-800.jpg` 为兜底），原 `portrait.jpg`（1.47 MB）仅保留给旧链接。
+- 图标：`favicon-32.png`、`icon-192.png`、`apple-touch-icon.png`；社交分享图：`og-image.jpg`（1200×630）。
+- 研究方向配图：`research-*.webp`，由 `rmre.png`、`eg.png`、`jrmge.png` 裁剪压缩而来；大 PNG 和 `cover-*` 期刊封面不再发布到 `_site`，仍保留在仓库中。
+- Publication venues 改为文字链接列表；`journal-covers.json` 保留以便恢复封面墙。
+- 支持系统暗色模式（`styles.css` 末尾的 `prefers-color-scheme: dark`）。

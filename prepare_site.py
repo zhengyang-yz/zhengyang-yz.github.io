@@ -33,9 +33,10 @@ def build(destination):
     metrics = json.loads((ROOT / "scholar-metrics.json").read_text(encoding="utf-8"))
     source = render_metrics((ROOT / "index.html").read_text(encoding="utf-8"), metrics)
     for pattern in (
-        "styles.css", "script.js", "portrait.jpg", "favicon.png", "rmre.png", "eg.png",
-        "jrmge.png", "robots.txt", "sitemap.xml", "scholar-metrics.json", ".nojekyll",
-        "journal-covers.json", "cover-*", "collaboration-network.json", "logo-*",
+        "styles.css", "script.js", "portrait.jpg", "portrait-*", "favicon.png", "favicon-32.png",
+        "icon-192.png", "apple-touch-icon.png", "og-image.jpg", "research-*.webp",
+        "robots.txt", "sitemap.xml", "scholar-metrics.json", ".nojekyll",
+        "journal-covers.json", "collaboration-network.json", "logo-*",
         "publications.bib", "publications.json",
     ):
         for asset in ROOT.glob(pattern):
