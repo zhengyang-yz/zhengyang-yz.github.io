@@ -99,11 +99,11 @@
 
 /* Research figures taken from the corresponding papers. */
 .research-figure{margin:0 0 18px}
-.research-figure>a{display:flex;align-items:center;justify-content:center;aspect-ratio:16/10;padding:8px;background:#fff;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.research-figure .figure-frame{display:flex;align-items:center;justify-content:center;aspect-ratio:16/10;padding:8px;background:#fff;border:1px solid var(--line);border-radius:4px;overflow:hidden}
 .research-figure img{display:block;width:100%;height:100%;object-fit:contain;transition:transform .2s ease}
-.research-figure>a:hover img{transform:scale(1.03)}
+
 .research-figure figcaption{margin-top:8px;font-size:12px;line-height:1.5;color:var(--muted)}
-@media(max-width:760px){.research-figure>a{aspect-ratio:auto}.research-figure img{height:auto}}
+@media(max-width:760px){.research-figure .figure-frame{aspect-ratio:auto}.research-figure img{height:auto}}
 
 /* Compact list of publication venues. */
 .journal-list{list-style:none;margin:0;padding:0;columns:3 260px;column-gap:40px}
@@ -129,7 +129,7 @@
   .institution-card figcaption{color:var(--ink)}
   .institution-logo:not(.logo-dark){background:#fff}
   .institution-logo.logo-dark{background:#153b50}
-  .research-figure>a{border-color:#2a3c48}
+  .research-figure .figure-frame{border-color:#2a3c48}
   #citation-dialog{background:#132430}
   #citation-output{background:#0f1c24;color:var(--ink);border:1px solid #3a5060}
 }

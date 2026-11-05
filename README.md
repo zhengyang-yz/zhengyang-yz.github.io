@@ -47,6 +47,6 @@
 
 - 头像：`portrait-400.webp` / `portrait-800.webp`（`portrait-800.jpg` 为兜底），原 `portrait.jpg`（1.47 MB）仅保留给旧链接。
 - 图标：`favicon-32.png`、`icon-192.png`、`apple-touch-icon.png`；社交分享图：`og-image.jpg`（1200×630）。
-- 研究方向配图：`research-*.webp`，由 `eg.png`、`rmre.png` 和 EFM 2024 实验图裁剪压缩而来；大 PNG 和 `cover-*` 期刊封面不再发布到 `_site`，仍保留在仓库中。
+- 研究方向配图：`research-*.webp`，由 `eg.png`、裂纹分类示意图和 EFM 2024 实验图裁剪压缩而来（不附论文链接）；大 PNG 和 `cover-*` 期刊封面不再发布到 `_site`，仍保留在仓库中。
 - Publication venues 改为文字链接列表；`journal-covers.json` 保留以便恢复封面墙。
 - 支持系统暗色模式（`styles.css` 末尾的 `prefers-color-scheme: dark`）。
