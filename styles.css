@@ -137,3 +137,6 @@
 .contact-emails{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:8px}
 .contact-emails li{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px}
 .contact-label{min-width:92px;font-size:12px;font-weight:600;letter-spacing:.4px;text-transform:uppercase;color:var(--muted)}
+
+/* Button that expands the collapsed part of the publication list. */
+.publications-toggle{margin-top:6px}

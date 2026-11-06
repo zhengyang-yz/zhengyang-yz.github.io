@@ -35,22 +35,47 @@ const count = document.querySelector('#publication-count');
 const empty = document.querySelector('#no-publications');
 const reset = document.querySelector('#reset-filters');
 const papers = [...document.querySelectorAll('#publication-list > li')];
-if (filters && search && year && cited && count && empty && reset) {
+const papersToggle = document.querySelector('#toggle-publications');
+const collapsedPaperCount = 5;
+if (filters && search && year && cited && count && empty && reset && papersToggle) {
   filters.hidden = false;
+  let papersExpanded = false;
   const searchable = papers.map(element => ({element, text: [element.querySelector('h3').textContent, element.querySelector('.authors').textContent, element.querySelector('.publication-journal').textContent, element.dataset.doi].join(' ').toLocaleLowerCase()}));
   function updatePublications() {
     const query = search.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+    // Searching and filtering always cover the whole list, including collapsed papers.
+    const filtering = query.length > 0 || year.value !== 'all' || cited.checked;
+    const collapsed = !filtering && !papersExpanded;
     let visible = 0;
-    searchable.forEach(({element, text}) => {
+    searchable.forEach(({element, text}, index) => {
       const match = query.every(word => text.includes(word)) &&
         (year.value === 'all' || element.dataset.year === year.value) &&
         (!cited.checked || element.dataset.cited === 'true');
-      element.hidden = !match;
+      element.hidden = !match || (collapsed && index >= collapsedPaperCount);
       if (match) visible++;
     });
     count.textContent = `${visible} ${visible === 1 ? 'publication' : 'publications'}`;
     empty.hidden = visible !== 0;
+    papersToggle.hidden = filtering || papers.length <= collapsedPaperCount;
+    papersToggle.setAttribute('aria-expanded', String(papersExpanded));
+    papersToggle.textContent = papersExpanded ? 'Show fewer' : `Show all ${papers.length} publications`;
   }
+  papersToggle.addEventListener('click', () => {
+    papersExpanded = !papersExpanded;
+    updatePublications();
+    // Collapsing removes the content above the button, so keep it in view.
+    if (!papersExpanded) papersToggle.scrollIntoView({block: 'center'});
+  });
+  // A link to a specific paper must still reach it when that paper is collapsed.
+  function revealLinkedPaper() {
+    const target = papers.find(paper => `#${paper.id}` === location.hash);
+    if (!target || !target.hidden) return;
+    filters.reset();
+    papersExpanded = true;
+    updatePublications();
+    target.scrollIntoView();
+  }
+  window.addEventListener('hashchange', revealLinkedPaper);
   filters.addEventListener('submit', event => event.preventDefault());
   search.addEventListener('input', updatePublications);
   year.addEventListener('change', updatePublications);
@@ -61,6 +86,7 @@ if (filters && search && year && cited && count && empty && reset) {
     search.focus();
   });
   updatePublications();
+  revealLinkedPaper();
 }
 
 const copyright = document.querySelector('#copyright-year');
