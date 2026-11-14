@@ -50,3 +50,9 @@
 - 研究方向配图：`research-*.webp`，由 `eg.png`、裂纹分类示意图和 EFM 2024 实验图裁剪压缩而来（不附论文链接）；大 PNG 和 `cover-*` 期刊封面不再发布到 `_site`，仍保留在仓库中。
 - Publication venues 改为文字链接列表；`journal-covers.json` 保留以便恢复封面墙。
 - 支持系统暗色模式（`styles.css` 末尾的 `prefers-color-scheme: dark`）。
+
+## Conference contribution (14 November 2026)
+
+- Added the 13 November 2026 oral presentation and proceedings contribution at the 55. Geomechanik-Kolloquium to Latest news and a separate conference section.
+- Title and authors follow the user-provided final printed programme; the official event page confirms the event and date. Proceedings inclusion was confirmed by the author. No unverified page numbers, ISBN or DOI are supplied.
+- The 16 representative journal citations and their combined export remain separate; the conference entry has its own citation and BibTeX download.

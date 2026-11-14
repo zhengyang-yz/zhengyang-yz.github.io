@@ -140,3 +140,15 @@
 
 /* Button that expands the collapsed part of the publication list. */
 .publications-toggle{margin-top:6px}
+
+/* Conference contributions remain separate from the journal publication list. */
+.conference-entry{min-width:0}
+.conference-meta{font-size:13px;color:var(--muted);margin-bottom:12px}
+.conference-entry h3{font-size:25px;line-height:1.35}
+.conference-entry .authors{font-size:14px;margin-top:14px}
+.conference-event{margin-top:7px;font-size:14px;color:var(--muted)}
+.conference-status{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.conference-status span{padding:3px 10px;border:1px solid var(--line);border-radius:3px;background:var(--wash);color:var(--teal);font-size:12px}
+.conference-note{margin-top:12px;font-size:14px;color:var(--muted)}
+.site-footer nav{flex-wrap:wrap}
+@media(max-width:760px){.conference-entry h3{font-size:23px}.conference-meta{line-height:1.6}}
